@@ -1,4 +1,4 @@
-RecordCount: 1201
+RecordCount: 1464
 
 console load MidwayContest2022/1-Maps/RainbowTemple
    1
@@ -108,10 +108,10 @@ console load MidwayContest2022/1-Maps/RainbowTemple
   11,D,X
   15,R,C
    1,R
-   8,U,X
-   8,R,U,C
-   5,R,J,G
-   6,R
+  11,U,X
+   4,D,C
+   3,R,C
+   9,R,J,G
   40,L,X
 #slow, a skip would be nice
   55,R,D
@@ -131,22 +131,17 @@ console load MidwayContest2022/1-Maps/RainbowTemple
   21,R,J
   11,U,X
    7,R,C
+   3,R,J,G
+   3,R
+   1
+  21,R
+   2,R,J,G
+   5,R
    1,R,J,G
    4,R
-   1,L
-   1,L,J
-   4,L
-   1,L,J
-  16,L,D
-   7,R,U,X
-   7,R,C
-   4,R,J,G
-   9,R,K,G
-  15,D,X
-   3,D
-   4,L,D
-   1,R,J
-  19,R,D
+   5
+  15,R,D
+  13,R
   14,U,X
    7,D
   16,R
@@ -173,9 +168,10 @@ console load MidwayContest2022/1-Maps/RainbowTemple
   25,R,J
   13,U,X
   11,R,U,C
-   3,R,J,G
-   2,R,K,G
-   8,R
+   1,R,J,G
+   2,R
+   1,R,K,G
+   9,R
   15,D,X
    1,D
   15,R,D
@@ -271,18 +267,20 @@ console load MidwayContest2022/1-Maps/RainbowTemple
   14,R,D,C
   13,R,J
   25,R,X
-   6,R,J
-   9,R
+   4,R,J
+   5,R
+   2,R,J
+   3,R
+   1,R,J,G
+  11,R
    1,R,J
-  14,R
-   1,R,J
-   1,R
+   6,R
   40
 
 #lvl_8
-  13,R
+   8,R
    1,R,J
-   9,R
+  12,R
   29,R,X
   20,R,J
    1,J
@@ -410,8 +408,9 @@ console load MidwayContest2022/1-Maps/RainbowTemple
   13,R,U,C
   14,U,X
   13,U,C
-  44,U,X
-  12,U,C
+  45,U,X
+#weird bug?
+  11,U,X
   40
 
 #lvl_end
@@ -433,4 +432,4 @@ console load MidwayContest2022/1-Maps/RainbowTemple
   22,R,D,J
   67,K
 
-ChapterTime: 1:09.615(4095)
+ChapterTime: 1:09.292(4076)
