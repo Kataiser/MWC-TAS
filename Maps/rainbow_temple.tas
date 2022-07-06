@@ -1,4 +1,4 @@
-RecordCount: 1464
+RecordCount: 1514
 
 console load MidwayContest2022/1-Maps/RainbowTemple
    1
@@ -20,7 +20,6 @@ console load MidwayContest2022/1-Maps/RainbowTemple
    5,R
    2,R,K
    1
-#not optimized
   11,L,J
    2,R,J
   14,R,K,G
@@ -30,18 +29,22 @@ console load MidwayContest2022/1-Maps/RainbowTemple
    1,R
    1,R,K,G
   11,R
-  19,D
-   3,R,D
-   3,R
+  18,D
+   4,R,D
+   2,R
+   1
    1,R,D
    8,R,J
    5,R
    2,R,J
-  14,R,K
-   5,R,J
-  21,R,D
-  12,R,J
-  26,R
+   1,R,K
+  13,R,J
+   4,R,K
+   8,R
+   1,R,J
+  11,R,D
+  11,R,J
+  28,R
   15,U,X
   19
   29,R,D
@@ -134,14 +137,19 @@ console load MidwayContest2022/1-Maps/RainbowTemple
    3,R,J,G
    3,R
    1
-  21,R
-   2,R,J,G
    5,R
-   1,R,J,G
-   4,R
-   5
-  15,R,D
+   1,R,J
   13,R
+   2,R,D
+   2,R,J,G
+   4,R
+   1,R,K,G
+   2,R
+   5
+   9,R
+   1
+  12,R,D
+   8,R
   14,U,X
    7,D
   16,R
@@ -432,4 +440,4 @@ console load MidwayContest2022/1-Maps/RainbowTemple
   22,R,D,J
   67,K
 
-ChapterTime: 1:09.292(4076)
+ChapterTime: 1:09.258(4074)
