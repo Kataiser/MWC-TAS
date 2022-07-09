@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 1221
+RecordCount: 1470
 
 console load MidwayContest2022/1-Maps/SpringDream
    1
@@ -102,17 +102,15 @@ console load MidwayContest2022/1-Maps/SpringDream
    4,L,G
    1
    1,J
-   2,R,J
-   5,L,J
-   8,L
-  10
+   2,R
    5,L
-   1
-   1,L
-  10,L,Z
-  10,L,J
+  12,L,D,G
+   3,L,G
+  12,L,Z
+   4,L,J
+   8,L,K
   15,U,X
-  28,U,C
+  27,U,C
   18,D,X
    1,D
   10,R,D
@@ -276,14 +274,18 @@ console load MidwayContest2022/1-Maps/SpringDream
    2,J
   19,L
    5,L,X
-  23,R,J
-  24,R,X
+  20,R,J
+  15,R,X
+  14,R
    4,L,G
   12,L,J,G
    6,R,K
-  15,R
+  10,R
    5,U,X
-  18,L,J
+  17,L,J
+#subpixel manip could
+#save a frame here
+   1,L,J
   13,U,X
   15,L,C
   31,L,U,G
@@ -353,7 +355,9 @@ console load MidwayContest2022/1-Maps/SpringDream
   11,R
   10
    1,J
-  15,L,J
+  11,L,J
+   2,J
+   1,L,J
    8,L,U,X
    1,J
    1,L,K,G
@@ -392,4 +396,4 @@ console load MidwayContest2022/1-Maps/SpringDream
    3,R,J
   32,U,X
  112,L
-ChapterTime: 0:52.751(3103)
+ChapterTime: 0:52.513(3089)
