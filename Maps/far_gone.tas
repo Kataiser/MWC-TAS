@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 1096
+RecordCount: 1429
 
 console load MidwayContest2022/1-Maps/fargone
    1
@@ -29,19 +29,46 @@ console load MidwayContest2022/1-Maps/fargone
    1,R,K,G
   15,R,D,X
    2,R
+#old strat
+#  18,L,D
+#   1,L,G
+#   6,D
+#   2,L,D
+#  25,L,G
+#   2,L,U,G
+#   1
+#   1,L,J,G
+#   1,L,K,G
+#  20,R,K
+#   5,U,X
+#  55,R,J
+#   1,R,D
+#  14,R,Z
+#   1,R,J
+#   2,R
+#  15,R,D,X
+#   2,R,D
+#   4,R,J
+#---------
+
   18,L,D
    1,L,G
-   6,D
-   2,L,D
-  25,L,G
-   2,L,U,G
+   2,L,J,G
+   5,L
+   3,L,J
+   5,L
    1
-   1,L,J,G
-   1,L,K,G
-  20,R,K
-   5,U,X
-  55,R,J
+   2,R
+  10,R,D,G
    1,R,D
+   1,R,J,G
+   3,R
+   7,R,K,G
+   5,R
+  12,R,J
+   6,U,X
+  50,R,J
+   6,R,D
   14,R,Z
    1,R,J
    2,R
@@ -94,15 +121,12 @@ console load MidwayContest2022/1-Maps/fargone
    6,D
   15,D,X
   16,R,D
-  13,D
-   5,R,D
-  15,L,X
-   3,L
-  28,R,D
-   1,D
-  43,R,D
-   4,D
    1,R,D
+   3,D
+   9,D
+  15,L,D,X
+  65,R,D
+   3,D
    4,Z
    1,R,J
    5,R
@@ -111,6 +135,7 @@ console load MidwayContest2022/1-Maps/fargone
    3,J
    7,R,D,X
   40
+
 
 #lvl_b-02
    8,R,D,X
@@ -125,7 +150,6 @@ console load MidwayContest2022/1-Maps/fargone
   13,R
   40,R,X
   15,U,C
-
    7
   30,R,D
    4,D
@@ -143,19 +167,26 @@ EndRepeat
    1,R,J
   28,R,D
   55,L,D
-   5,L,X
-   1,J
+   1,L,D
+   5,U,X
+   1,L,J
    1,L,K,G
-  29,R,J
-  10,R,K
+  18,R,K
+   9,R
+   9,R,J
   40
 
 #lvl_b-03
-  12,R,J
+   1,J
+   1,R,J
+   1,J
+   4,R,J
+   3,R
   14,R,U,X
-   9,R,J,G
-  37,R,D
-   7
+   5,R,J,G
+  24,R,D
+  11,D
+  13
   50,R,X
   10,U,C
   34,R,J
@@ -163,25 +194,23 @@ EndRepeat
    1,R,J
   28,R,D
   39,L,D
-   3,D
+   5,D
    1,L,D
-   1,D
+#can dash a frame earlier with better subpixel manip
   14,L,D,X
-  10,L,J
-  12,L
-  18,L,U,X
-  13,L,C
-  87,L,X
+  27,L,J
+  14,L,X
+   5,L,J,G
+  77,L,X
+   9
    9,D,C
-   5,L,J
-   8,L
-   2,L,J
-  14,L,D
-   1,R,D
-   9,D
-   8,R,D
+   1,J
+   3,R,K,G
+  14,L
+  18,D
+  10,R,D
    1,D
-  20,R,D
+  18,R,D
   14,R,D,X
    1,R,J
   11,R,D,X
@@ -208,18 +237,18 @@ EndRepeat
    1,L,J
    1,J
    4,R,J
-  19,R
-   5,L,D,X
-   8,R,J
-   5,R
-   2,R,J
+  15,R
+  24,L,D,G
+   5,U,X
+   1,L,J
+   1,L,K,G
+   2,R,K
+   6,R
   15,R,D,X
-  10,R
-   9,R,J
-   3,R
-  15,R,D,X
-   4,R,D
-  61,D
+  15,R
+  15,D,X
+  29,R,D
+  22,D
   46,R,X
   14,L,D,C
   25,L,J
@@ -230,7 +259,7 @@ EndRepeat
   10,R
   15,R,U,X
    7,R
-  12,U,X
+  13,U,X
   38,R,J
   14,R,D,X
   35,R,J
@@ -259,7 +288,7 @@ EndRepeat
   12,R
   40
 
-#lvl_c-00
+#lvl_c-00 
    1,R
   12,R,J
   15,R,D,X
@@ -282,30 +311,15 @@ EndRepeat
   14,R,Z
   21,R,J
   15,U,Z
+  16,L,J
+  14,L,X
    1
-   1,L,J,G
-   2,R,J
-   1,J
-   1,R,J
-   1,J
-   1,R,J
-   1,J
-   1,L,K,G
-  12,L,J,G
- 180,R,X
-   5,R,Z
-  11,R,D,X
-   1,R,J
-   5,R
-   1,R,J
-   3,R
-   4,R,J
-  15,R,X
-   9,R
+ 186,R,C
+  19,R,D,X
+  17,R,C
    8,U,X
   11,R,J
   13,R
-
    6,R,Z
    1,R,J
    7,R
@@ -351,16 +365,12 @@ EndRepeat
    4,R
    1
    2,R,K
-   3,R,J
-  11,R
-  15,U,Z
-   1,R
-  13,R,J
-   2,R,K,G
-   8,R
-  20
-   5,L,X
-  34,R,J
+  19,R,J
+   9,U,X
+   1,L,J
+   1,L,K,G
+   7,R,K
+  12,R
   13,U,X
   80,R,C
   15,D,X
@@ -401,4 +411,4 @@ EndRepeat
   15,R,D,X
    9,R,J
  149,R,U,C
-ChapterTime: 1:12.964(4292)
+ChapterTime: 1:11.383(4199)
