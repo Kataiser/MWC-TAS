@@ -156,6 +156,20 @@ EndRepeat
   11,D
   13
   50,R,X
+
+#saves 2f but desyncs
+#on falling block
+#  13,U,C
+#  25,R,J
+#  15,R,D,X
+#   2,R
+#   7,R,D
+#  58,L,D
+#  14,L,Z
+#  27,L,J
+#  14,L,X
+#   5,L,J,G
+
   10,U,C
   34,R,J
    1,R
