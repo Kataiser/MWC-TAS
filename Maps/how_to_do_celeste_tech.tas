@@ -1,4 +1,4 @@
-RecordCount: 753
+RecordCount: 799
 
 console load MidwayContest2022/1-Maps/nyan
    1
@@ -136,7 +136,7 @@ console load MidwayContest2022/1-Maps/nyan
    9,R,D,X
   40
 
-#lvl_5
+#lvl_5 -15f
    4,R,D,X
    2,R,J
    2,R
@@ -152,18 +152,13 @@ console load MidwayContest2022/1-Maps/nyan
    5,R,J
    5,R
   16,R,J
-  15,D,X
-  15,U,C
+  15,U,X
   18,D
-   9,R,D
-  15,Z
-  17,D
-   6,L,Z
-   1,R,J
-   7,R
-   1,R,J
-  10,R,D,X
-   1,R,J
+  12,R,D
+  15,R,Z
+  16,R,D
+   6,R,Z
+  12,R,J
    9,R
    8,U,X
    1,R,J
@@ -336,14 +331,13 @@ console load MidwayContest2022/1-Maps/nyan
    8,R
   15,R,Z
   23,R,D
- #no idea how to do this fast
-  10,R,Z
-   6,R,J
-  13,U,X
-  27,R,J
-   2,R,K,G
+  10,R,X
+   7,R,J
+  11,U,X
+  26,R,J
+   1,R,K,G
   16,R
-  24
+  25
   14,R,D,X
    1,L,J
   13,L,D,X
@@ -359,4 +353,4 @@ console load MidwayContest2022/1-Maps/nyan
    8,U,X
  135
 
-ChapterTime: 0:53.873(3169)
+ChapterTime: 0:53.584(3152)
