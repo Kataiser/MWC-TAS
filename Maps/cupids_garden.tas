@@ -1,4 +1,4 @@
-RecordCount: 945
+RecordCount: 1005
 
 console load MidwayContest2022/1-Maps/quinnigan
    1
@@ -7,7 +7,7 @@ console load MidwayContest2022/1-Maps/quinnigan
   84
 
 #lvl_q0
-   5,Z
+   5,R,Z
    1,R,J
    1,R
    4,R,J
@@ -16,16 +16,17 @@ console load MidwayContest2022/1-Maps/quinnigan
   11,R,J
   10,R,D,X
    1,R,J,G
-  10,R
-   1
-   1,R,D,J
-  10,R,D,X
-   6,R,J,G
-   2,R
+  11,R
+   2,R,J
+   9,R,D,X
+   3,R,J,G
+   3,R
   40
 
 #lvl_q1
-   8,R
+   2,R
+   4,R,J
+   2,R
    8,R,D,J
    2
    2,R,X
@@ -60,10 +61,12 @@ console load MidwayContest2022/1-Maps/quinnigan
    1,R,J
   14,R,D,X
    9,R,J
+  14,U,X
+   7,D
+   7,R
   15,U,X
-  15,R
-  15,U,X
-  11
+   5,R
+   7
    2,L,J
   11,L,Z
    2,R,J
@@ -75,8 +78,8 @@ console load MidwayContest2022/1-Maps/quinnigan
   20,R
    8,R,D
   16,R,Z
-  15,U,X
-   6
+  14,U,X
+   7,D
   14,U,X
   15,R,C
   21,R,D
@@ -160,23 +163,24 @@ console load MidwayContest2022/1-Maps/quinnigan
 #  21,R
 #  12,R,D,X
 #-------------
-   8,R,D,X
+   5,R
    2
    2,R,X
   42,F,71
-   6,R
-  14,R,U,X
-  12,L
-  14,L,Z
-  37,R,X
-  20,R,C
-  15,U,X
-  19,U
-  16,U,X
-  11,D
-  23,R,D
-  14,R,C
-  15,U,X
+   1,R
+   5
+  21,R,U,X
+  15,R,C
+   9,R
+  14,U,X
+  16,D
+  21,U,X
+   5,D
+  11,R,D
+   1,D
+  11,R,D
+  14,R,X
+  15,U,C
   24,R
   15,R,U,Z
    2
@@ -343,4 +347,4 @@ console load MidwayContest2022/1-Maps/quinnigan
   14,R,U,X
  136
 
-ChapterTime: 1:02.509(3677)
+ChapterTime: 1:01.693(3629)
