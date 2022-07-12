@@ -1,4 +1,4 @@
-RecordCount: 1974
+RecordCount: 2014
 
 console load MidwayContest2022/1-Maps/u+21ce
    1
@@ -362,13 +362,14 @@ console load MidwayContest2022/1-Maps/u+21ce
    8,J
    5,K
   41
-   8,D
-  37
-   2,J
-  12,X
+   9,D
+   9,D,J
+  18
+  11,G
+   5,X
    1,J
    1,K
-  53
+  54
    1,J
    2,K
   10
@@ -525,4 +526,4 @@ Repeat, 5
 EndRepeat
  135
 
-ChapterTime: 1:16.279(4487)
+ChapterTime: 1:16.177(4481)
