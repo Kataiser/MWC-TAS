@@ -1,4 +1,4 @@
-RecordCount: 1303
+RecordCount: 1441
 
 console load MidwayContest2022/1-Maps/quinnigan
    1
@@ -74,8 +74,7 @@ console load MidwayContest2022/1-Maps/quinnigan
    8,R,D
   16,R,Z
   14,U,X
-   7,D
-  14,U,X
+  16,D
   15,R,C
   21,R,D
   20,L,D,X
@@ -184,8 +183,7 @@ console load MidwayContest2022/1-Maps/quinnigan
    2
    2,R,X
   83,F,88.4
- 150,R
-   5,R
+ 155,R
   30,F,84.5
    3,R,D
   14,R,Z
@@ -320,4 +318,4 @@ console load MidwayContest2022/1-Maps/quinnigan
   14,R,U,X
  136
 
-ChapterTime: 1:01.642(3626)
+ChapterTime: 1:01.608(3624)
