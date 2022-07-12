@@ -7,13 +7,14 @@ console load MidwayContest2022/0-Lobbies/1-Maps main 11
 #lvl_main
    2,R,J
   10,R,X
-   7,L,J
-  12,L,U,X
-   3,L,J,G
+   5,L,J
+  14,L,U,X
+   2,L,J,G
    5,L
    2,L,J
-   8,L
+   7,L
    1,X
 
-#0:00.748(44)
+#0:00.714(42)
+
 
