@@ -1,19 +1,21 @@
-console load MidwayContest2022/0-Lobbies/1-Maps main 0
+console load MidwayContest2022/0-Lobbies/1-Maps main
    1
 
 #Start
-  36
-
-#lvl_main
-  15,L,X
-  54,R,D
-   9,R,D,X
+  98
+   4,Z
+   2,L,J
+   9,L,D
+  15,D,X
+  32,R,D
+   3,R
+   1,R,D
+   1,R
+   4,Z
    1,R,J
-   7,R
-   3,R,J
-  15,R,D,C
-   1,X
+   6,R
+   4,R,J
+  16,R,D,X
+   1,N
 
-#0:01.632(96)
-
-
+#0:01.479(87)

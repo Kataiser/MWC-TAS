@@ -3,8 +3,6 @@ console load MidwayContest2022/0-Lobbies/1-Maps main 8
 
 #Start
   36
-
-#lvl_main
    4,Z
    1,R,J
   12,R
@@ -16,4 +14,3 @@ console load MidwayContest2022/0-Lobbies/1-Maps main 8
    1,X
 
 #0:00.816(48)
-
