@@ -1,4 +1,4 @@
-RecordCount: 799
+RecordCount: 885
 
 console load MidwayContest2022/1-Maps/nyan
    1
@@ -22,34 +22,36 @@ console load MidwayContest2022/1-Maps/nyan
   40
 
 #lvl_1
-   6,R,D,X
-   1,S
+   7,R,D,X
+   1,S,N
    1,D,J
   34
-   2,R,J
+   1,R,J
    2,R
   15,R,D,X
-   8,R,J
+   7,R,J
   40
 
 #lvl_2
-   8,R,J
-  12,U,X
-  10,R,J
-  19,R
-  10,X
-   1,J
+   6,R,J
+   2,J
+   8,U,X
+  14,R,J
+   8,R
+   2,R,K
+   5,R
+  10,R,X
+   1,R,J
    4,L,J
-  18,U,Z
+  17,U,Z
   37,R,J
   13,R,U,Z
    1,L
-   1,J,G
-   3,J
+   4,J,G
    2,R,J
    3,L,K
    7,L
-  10,L,D,X
+  10,L,Z
    5,L,J
   12,L,U,X
   10,U,C
@@ -72,40 +74,43 @@ console load MidwayContest2022/1-Maps/nyan
   14,U,X
    4,L,J
   13,R,U,X
-  40,L
+  38,L
+   2
   14,U,X
-  26,R,J
-  14,U,X
-  36,R,J
-  12,U,X
-  25,L,J
-   2,L
-   4,Z
-   2,R,J
-   8,R
+  25,R,J
+  17,U,X
+  13,J
+   7,L,J
+  18,U,X
+   8,R,J
+  13,R
+   7,R,Z
    1,R,J
-  14,R,D,X
+   6,R
    1,R,J
-   9,R,D,X
+  12,R,D,X
   40
 
 #lvl_4
-   5,R,D,X
+   2,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
   14,R,D,X
+   1,R,J
+   6,R,D,X
    1,R,J
    7,R
-  14,R,J
-  16,R,U,X
+  15,R,J
+  15,R,U,X
    7,R,J,G
    7,R
    4,Z
    2,R,J
    8,R
    1,R,J
-  31,R,D,X
+  28,R,D,X
+   3,R
    1,R,J
    2,R
   14,R,D,X
@@ -114,8 +119,8 @@ console load MidwayContest2022/1-Maps/nyan
    8,R,J,G
    7,R
   15,R,X
-  15,D,C
-  13,R,D
+  16,D,C
+  12,R,D
    4,Z
    2,R,J
    8,R
@@ -154,10 +159,10 @@ console load MidwayContest2022/1-Maps/nyan
   16,R,J
   15,U,X
   18,D
-  12,R,D
+  13,R,D
   15,R,Z
-  16,R,D
-   6,R,Z
+  14,R,D
+   7,R,Z
   12,R,J
    9,R
    8,U,X
@@ -168,7 +173,7 @@ console load MidwayContest2022/1-Maps/nyan
   11,U,X
   27,R,J
   13,R
-   8,Z
+   8,R,Z
    1,R,J
    7,R
    1,R,J
@@ -179,7 +184,7 @@ console load MidwayContest2022/1-Maps/nyan
 
 #lvl_6
    8,R,D,X
-   1,S
+   1,S,N
    1,D,J
   34
    5,R,D
@@ -353,4 +358,4 @@ console load MidwayContest2022/1-Maps/nyan
    8,U,X
  135
 
-ChapterTime: 0:53.584(3152)
+ChapterTime: 0:53.108(3124)
