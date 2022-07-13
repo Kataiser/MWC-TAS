@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 1157
+RecordCount: 1325
 
 console load MidwayContest2022/1-Maps/ricky06
    1
@@ -26,18 +26,21 @@ console load MidwayContest2022/1-Maps/ricky06
   19,R,D
    5,R,Z
    4,R,J,G
-  12,R,D
-  12,D
-   1,L,D
-   1,D
-   1,L,D
-  14,R,D,X
+  25,R,D
+   2,R
+   9,R,Z
    1,L,J
-  11,L
-   6,R,D
-  11,R,U,X
+   4
+   8,L
+   4,R
+   1,D
+   1,J
+   3,R
+   8,R,U,X
    1,J,G
-  12
+   8
+   2,R
+   1
    1,R
   14,L,Z
    1,R,J
@@ -353,24 +356,27 @@ console load MidwayContest2022/1-Maps/ricky06
   21,R,J
    3,J
   13,U,X
-  16,L,J
-  16
-  12,L,X
-  33,R
-   7,R,X
+  12,L,J
+   4,L
+  10
+  10,L,U,X
+  32,R
+   8,R,X
   51,R,J,G
    1
    1,R
    1
    1,R,J,G
-   2,L,J
+   1,L,J
    2,R,J
    1,R,K,G
-   8,R,J,G
-   9,R
-  23,R,D
+   7,R,J,G
+   6,R
+   1,R,J
+  14,R
+   4,R,D
    1,R
-   5,R,D
+  13,R,D
    9,R,X
    1,R,J,G
   13,R
@@ -417,4 +423,4 @@ console load MidwayContest2022/1-Maps/ricky06
    2,R,K
   14,R,J
  145,U,C
-ChapterTime: 0:49.895(2935)
+ChapterTime: 0:49.657(2921)
