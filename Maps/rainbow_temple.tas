@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 1790
+RecordCount: 1806
 
 console load MidwayContest2022/1-Maps/RainbowTemple
    1
@@ -212,12 +212,17 @@ console load MidwayContest2022/1-Maps/RainbowTemple
    1,L,K,G
   16,L
   14,L,U,X
-   7,L
-  36,L,D
-  16,U,X
-   7,R,J
-   9,R
-   1
+   7,R,D
+  21,L
+   1,J,G
+   1,R,J
+   1,R,K
+   3,R,J
+   1,R,J
+   3,R,K
+   5,R
+   3,R,J
+   5,R
    1,R,J,G
    1,R,K,G
   16,R
@@ -439,4 +444,4 @@ console load MidwayContest2022/1-Maps/RainbowTemple
   22,R,D,J
   67,K
 
-ChapterTime: 1:08.986(4058)
+ChapterTime: 1:08.612(4036)
