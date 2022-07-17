@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 1562
+RecordCount: 1790
 
 console load MidwayContest2022/1-Maps/RainbowTemple
    1
@@ -113,8 +113,7 @@ console load MidwayContest2022/1-Maps/RainbowTemple
   15,R,C
    1,R
   11,U,X
-   4,D,C
-   3,R,C
+   7,R,C
    9,R,J,G
   40,L,X
 #slow, a skip would be nice
@@ -222,8 +221,9 @@ console load MidwayContest2022/1-Maps/RainbowTemple
    1,R,J,G
    1,R,K,G
   16,R
-  21,R,U,X
-   5,R
+  14,R,U,X
+   7,L,D
+   4,R
   15,R,D,X
   14,U,C
   14,R,J
@@ -381,7 +381,8 @@ console load MidwayContest2022/1-Maps/RainbowTemple
    8,R,K,G
   18,R
   14,R,U,X
-  17,R
+   7,L,D
+   8,R
   14,R,D,X
   11,R,J
   18,R,D
@@ -412,7 +413,8 @@ console load MidwayContest2022/1-Maps/RainbowTemple
    7,R
   38,R,D
   14,L,U,Z
-  15,L
+   7,R,D
+   6,L
   24,U,X
   13,R,U,C
   14,U,X
@@ -430,15 +432,11 @@ console load MidwayContest2022/1-Maps/RainbowTemple
    5,L
    8,L,K,G
   14,R,U,X
-  24,R
-   1,J,G
-   3,R,J
-   1,J
-   2,R,J
-   9,R
+   7,L,D
+  22,R
   31,D,X
   25,R
   22,R,D,J
   67,K
 
-ChapterTime: 1:09.258(4074)
+ChapterTime: 1:08.986(4058)
