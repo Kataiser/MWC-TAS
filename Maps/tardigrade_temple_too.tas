@@ -1,27 +1,27 @@
-# tirednwired
+# By tirednwired
 # MidwayContest2022
 # https://gamebanana.com/mods/387247
 
-RecordCount: 868
+RecordCount: 979
 # + 393!
 
 console load MidwayContest2022/1-Maps/TardigradeTempleToo
    1
-# 00
+
+#Start
   88
-   1,D,X
-   9,R,X
+
+#lvl_00
+  10,R,Z
   13,R,J
    8,R
-   1,D,X
-   9,R,X
+  10,R,Z
   18,R,J
    5,R,X
    7,R,J,G
   10,R,K,G
   19,R
-   1,D,X
-   9,R,X
+  10,R,Z
   13,R,J
    5,R,X
    6,R,J,G
@@ -29,7 +29,8 @@ console load MidwayContest2022/1-Maps/TardigradeTempleToo
    7,R,J
    5,R
   40
-# 01
+
+#lvl_01
   37,L,D
   14,R
   27,R,U,X
@@ -45,32 +46,30 @@ console load MidwayContest2022/1-Maps/TardigradeTempleToo
    1
    5,L,X
   27
-  13,U,X,G
+  13,U,X
   31,R,U,G
   19,R,G
    5,R,J,G
-  15,R,D
-  47,R
-   5,R,D,X
-  29,R
-   1,D,X
-  13,R,U,X
+  62,R
+  15,R,D,X
+  19,R
+  14,R,U,Z
   11,R,J
    9,R
-   1,D,X
-   7,R,X
+   8,R,Z
   40
-# 02
-   6,R,X
+
+#lvl_02
+   6,R,Z
   30,R,J
-   5,R,X
-  10
-   5,R,U,X
-  28,R,D
+   8,R,X
+   7
+  15,R,U,X
+  18,R
    9,D
   28,L,U,G
   12,L,J,G
-  19,L,D
+  19,L
   27,R,D
   17,L,U,X
   12,L
@@ -78,64 +77,62 @@ console load MidwayContest2022/1-Maps/TardigradeTempleToo
    2,L,J,G
   11,D
    1
-   1,D,X
-   9,L,X
+  10,L,Z
    9,R,J
    9,L,U,X
   40,R
   42,R,U,X
    9,L
-   5,U,X
-  23,D
+  15,U,X
+  13,D
   13,R,D
   21,D
-   1,D,X
-   4,R,X
-  11,R
-   5,U,X
-  29,D
+  15,R,Z
+   1,R
+  15,U,X
+  19
   35,L,G
   31,R,J
   45,L,D
   18,L,X
    1,L
-   5,U,X
-  88
-# 03
+  53,U,X
+  40
+
+#lvl_03
   11
-   5,R,X
-  13
-   5,U,X
-  19
+  15,R,X
+   3
+  15,U,X
+   9
   21,L,X
   16,L,U,G
   12,G
   24,L,D
-   9,U,X
-  68,R,U,X,G
+  15,U,X
+  62,R,U,G
  135,G
   15,L,J
-   5,L,D,X
-  45,R,D
+  15,L,D,X
+  35,R,D
    2,D
    1,R,D
   10,D
   23,L,D
   16,D
-   1,D,X
-  14,L,X
+  15,L,Z
    1
   30,L,X
    6,L,J,G
    6,L,K,G
    7,L
-   1,D,X
-   4,L,X
+   5,L,Z
    1,L,J
    7,L
    5,L,J
   40
-# 04
+
+#lvl_04
    8,L,J
   14,L,D,X
    1,L
@@ -146,9 +143,10 @@ console load MidwayContest2022/1-Maps/TardigradeTempleToo
   17,L,X
    2,L,G
    1
-   1,D,J
+   1,J
   39,D
-   7,L,D,J
+   1,L,D
+   6,L,J
   28,L,D
    9,R,X
   37,R,J
@@ -158,61 +156,52 @@ console load MidwayContest2022/1-Maps/TardigradeTempleToo
   11,J,G
   12,K,G
    9,L,J,G
-   5,L,X
-  10,L
-   5,L,X
-  14,L
+  15,L,X
+  15,L,C
+   4,L
   60,R,D
    6,R,X
   43,L,J
-   5,L,X
-  31,L,D
+  15,L,X
+  21,L,D
    6,L,D,X
    4,L,J
    1,L,K,G
   10,L
   40
-# 05
+
+#lvl_05
    1,L
    1,L,J
    2,L
    6,L,J,G
    1,S
    1,D,J
-   1,L,D
-  33
+  34
   10,L,D
-   5,D,X
-  42,D
+  18,D,X
+  29,D
    9,D,J
-   5,U,X
-  22,R
+  15,U,X
+  12,R
   50,L
    5,D
    3,L,D
-   1,D,X
-  13,L,X
-   1
-   9,L,U,X
-   1
-   5,U,X
-  10
-   5,L,X
-   8
-   5,L,X
-  12
-   5,L,D,X
-  20,R,D
+  15,L,Z
+  10,L,U,C
+  15,U,X
+  13,L,C
+  17,L,X
+  15,L,D,C
+  10,R,D
   23,R,D,X
   25,U,G
    5,G
    1,R,J,G
    6,R
   19,L
-  14,L,U,X
-   1
-   1,D,X
-  22,L,U,X
+  15,L,U,X
+  23,L,U,Z
   32,D
   16,L
    8,L,J
@@ -220,32 +209,29 @@ console load MidwayContest2022/1-Maps/TardigradeTempleToo
    2,L,J,G
   14,L
   29,L,J
-   1,D,X
-  35,L,U,X
+  36,L,U,Z
    1
-   1,D,X
-  14,L,U,X
+  15,L,U,Z
    1
-  14,U,X
-  21,L,D
+  15,U,X
+  20,L,D
   10,L,D,X
    5,L,J
   15,L,D,X
    2,L,J
   40
-# 06
+
+#lvl_06
   23,L,J
-   4,L,X
-   1
    5,L,X
-  28
-   5,D,X
-  12,L,D
+  33,L,C
+  15,D,X
+   2,L,D
    6,D
    3
    5,R
-   5,R,X
-  23,D
+  15,R,X
+  13
   12,R,D
    2,G
   24,L,J
@@ -254,7 +240,7 @@ console load MidwayContest2022/1-Maps/TardigradeTempleToo
   34,G
    8,R,J
    1
-  14,R,D
+  14,R
   25,L,D
   11,D
   11,L,D
@@ -263,12 +249,10 @@ console load MidwayContest2022/1-Maps/TardigradeTempleToo
   25,D
   10,R,D
   27,L
-   5,U,X
-   7
-   5,L,X
-  12
-   5,D,X
-  24,D
+  12,U,X
+  17,L,C
+  15,D,X
+  14,D
   14,L,D
    5,L,J,G
   14,L,D
@@ -277,48 +261,44 @@ console load MidwayContest2022/1-Maps/TardigradeTempleToo
 # my name's heather and this is jackass
    3,R,G
    6,R,D,G
-   7,R,D,J,G
-   5,D,X
-  22,D
+   7,R,J,G
+  15,D,X
+  12,D
   22,L,D
-   1,D,X
-   4,L,X
+   5,L,Z
    1,L,J
   40
-# 07
+
+#lvl_07
    7,L
    4,L,J
-   5,L,X
-  19
-   5,L,D,X
-  22,R,D
+  24,L,X
+  15,L,D,C
+  12,R,D
   10,R
    4
   16,R,J
   29,L
   33,R
   35,L
-  36,L,D,X
-   1,L
-  43,L,X
+  37,L,D,X
+  43,L,C
    4,R
   22,L,J,G
   14,L
   11,L,J
-   5,L,X
-  12,L,D
+  15,L,X
+   2,L
   19,D
-   5,L,X
-  19
-   5,U,X
-  31
+  24,L,X
+  18,U,C
+  18
   13,L
-  17,L,X
-   1,L
-  21,L,X
+  18,L,X
+  21,L,C
    1
   36,L,U,X
-  30,L,U,J,G
+  30,L,J,G
   19,R,U,G
   26,G
   40,L,J
@@ -327,7 +307,8 @@ console load MidwayContest2022/1-Maps/TardigradeTempleToo
    1,L,K,G
    9,L
   40
-# 08
+
+#lvl_08
    3,L
   10,L,J
   10,L
@@ -338,121 +319,58 @@ console load MidwayContest2022/1-Maps/TardigradeTempleToo
   46,L,D,J
    1
    5,D,X
-  38,D
+  38
   19,R,D
   21,U,G
   34,G
    7,U,G
    4,G
   33,L,J
-  15,L,U,X
-   4,R,J,G
-  11,R,U,G
-  31,R,D,J,G
+  18,L,U,X
+   1,R,J,G
+  10,R
+   1,R,G
+  31,R,J,G
   24,D
   43,R,D
-   1,R,D,G
+   1,R,G
    5,R,X,G
   23,D,G
   13,D
    8,R,D
-  53,R,X,G
+  15,R,X
+  38,R,G
   27,L,J
-   1,D,X
-  28,L,U,X
-   1
-   5,U,X
-  15
-  12,R,X
-   1
-   5,U,X
-  14
-   5,L,X
-  26,D
+  30,L,U,Z
+  20,U,X
+  13,R,C
+  19,U,X
+  15,L,C
+  16
    1,R,J
-   2,D,J
+   2,J
   39,D
    7,R,D
-   5,L,X
-  14
-   1,D,X
-  24,L,U,X
-   1,L
-  15,L,U,X
-   1,L
-  12,U,X
+  19,L,X
+  26,L,U,Z
+  16,L,U,X
+  12,U,C
   23,R,U,G
   28,G
  181,L,D,J
-#09
+
+#lvl_09
    1,L
-   1,D,X
-   9,L,X
+  10,L,Z
   10,L,J
-  12,L,D,X
-   3,L
+  13,L,D,X
+   2,L
   12
   34,U,X
+Repeat 30
    2,R,D
    2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
-   2,R,D
-   2,L,D
+EndRepeat
    1,R,D
 
-ChapterTime: 1:30.695 (5335)
+ChapterTime: 1:30.695(5335)
