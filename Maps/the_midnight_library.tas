@@ -1,81 +1,92 @@
 console load MidwayContest2022/1-Maps/va2m
    1
+
+#Start
  166
+
+#lvl_a_intro
    4,R,Z
    1,R,J
    7,R
-   7,R,J
-   5,R
-  14,R,D,X
+  12,R,J
+  15,R,D,X
    1,R,J
   14,R,D,X
    1,R,J
-   8,R,D,X
+   5,R,D,X
+  40
 
 #lvl_a_explanation
+   9,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  10,R,D,X
   40
-   6,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  14,R,D,X
-   1,R,J
-  13,R,D,X
 
 #lvl_a_hub
-  40
-   2,R
-   1,R,J
-  14,D,X
-  15,L,D
+   5,R
+  15,D,X
+  13,L,D
    4,L,Z
    1,L,J
+   2,L
+  40
 
 #lvl_a_01
-  40
-  10,L
-  33,L,D,X
-   4,L,D,C
+   5,L
+   1,L,J
+   2,L
+  35,L,D,X
+   1,L,J
+   6,L,D,X
    1,L,J
    7,L
    3,L,J
-  11,L,D,X
-   1,L,J
-   3,L,K,G
-   5,L
+   1,L
+   5,L,D,X
+   1,L,K,G
+   6,L
 
 #lvl_b01
-   6,L,J
-  17,L,D,K
-  17,U,X
+   1,L,J
+   5,L
+  15,L,D,J
+  18,U,X
    4,J
-  14,R,Z
+  12,R,Z
    1,R,J
-   5,R,D,X
-  13,R,G
-   8,R,J
-  10,R,U,X
-  15,R,J,G
-   3,R,J
-   7,K
+   2,R
+   4,R,Z
+   1,R,J
+   7,R
+  11,R,J
   11,U,X
-  13,G
-   4
-   4,L
+   7,R,J
+   4,L,J
+   2,J
+   2
+   7,L,X
+   1,L,K,G
+  15,L,J,G
+   5,J
+  11,U,X
+  26,R,J
    1,R
-  35,L
-  14,U,X
-   6,R,J
-  12,R
-  11,R,X
+   1,R,J
+   4,R
+  10,R,X
   13,L,J
-  17,L,U,X
-   1,R
-   7,R,J,G
-   9,R,K,G
-   6,R
+  16,L,U,X
+   1,R,J,G
+  10,R,K,G
+   2,R
+   4,R,J,G
+   7,R
    6,R,Z
    1,R,J
    7,R
@@ -84,14 +95,16 @@ console load MidwayContest2022/1-Maps/va2m
    1,R,J
   14,R,D,X
    1,R,J
-  13,R,D,X
+  10,R,D,X
    1,R,J
   20,R,D
-   4,D
-   5
+   7,D
+   1
+   1,D
   14,U,Z
-   3,L,J
-  10,L
+   5,L,J
+   1,L,K,G
+   7,L
    6,L,Z
    1,L,J
    7,L
@@ -100,6 +113,7 @@ console load MidwayContest2022/1-Maps/va2m
    1,L,J
   14,L,D,X
    1,L,J
+
 #other way around in spider room
 #--
 #  15,L,D,X
@@ -159,15 +173,14 @@ console load MidwayContest2022/1-Maps/va2m
 #  14,L,U,X
 #   2,L,J,G
 #--
-   8,L,D,X
+   7,L,D,X
    1,L,J
    7,L
    6,L,D,J
   13,U,X
-
+  40
 
 #lvl_c01
-  40
    8,R
    1,J,G
    1,R
@@ -221,7 +234,7 @@ console load MidwayContest2022/1-Maps/va2m
    9,R,J,G
    7,R,K,G
 
-#lvl_a_hub
+#lvl_a_hub (2)
    3,R,J
   14,R,U,X
    3,R,J,G
@@ -231,9 +244,9 @@ console load MidwayContest2022/1-Maps/va2m
    8,R,D,X
    1,R,J,G
    6,R
+  40
 
 #lvl_a_04
-  40
    6,R
    1,R,J
   14,R
@@ -241,32 +254,29 @@ console load MidwayContest2022/1-Maps/va2m
   14,R
    1,R,J
    8,R
-   1,R,J
-  18,R
-   2,R,J
-  14,R,D,X
-  15,R
+  12,R,D,J
   15,R,D,X
-   1,R,J
-   1,R,K
-   1,R,J
-  12,R,J
+   1,R,D,J
+   9,R,D,X
   11,R
-  21,R,D,X
-   4,R,J
-  15,R,X
-  15,R,D,C
-  25,R
-  12,R,X
+  12,R,D,X
+  17,R,J,G
+  11,R
+  18,R,D,X
    1,R,J
-   5,R,K,G
-  14,R,D,X
-   1,L,J
-  11,L
-   3,R,D,X
+   7,R
+  17,R,D,X
+   2,R,K,G
+  16,R
+  19,R,D,X
+   1,R,J
+  17
+  14,L,Z
+   1,R,J
+   6,R,D,X
 
-#lvl_a_hub
-  11,R
+#lvl_a_hub (3)
+   6,R,D,X
    1,L,J
    7,L
    4,L,J
@@ -277,13 +287,13 @@ console load MidwayContest2022/1-Maps/va2m
   14,U,X
    1,L
    5,L,J,G
-   8,L
+   7,L
    6,L,Z
    1,L,J
    1,L
+  40
 
 #lvl_a_05
-  40
    6,L
    1,L,J
   14,L,D,X
@@ -325,9 +335,6 @@ console load MidwayContest2022/1-Maps/va2m
   15,U,X
    5,J,G
    7,R
- 
-
-
    4,R,Z
    5,R,J
    1,R
@@ -372,7 +379,7 @@ console load MidwayContest2022/1-Maps/va2m
   17,R,J
    2
 
-#lvl_a_hub
+#lvl_a_hub (4)
    4,R,Z
    1,R,J
    7,R
@@ -381,9 +388,9 @@ console load MidwayContest2022/1-Maps/va2m
   49,R,D,X
    6,R,Z
    1,R,J
+  40
 
 #lvl_a_03
-  40
    7,R
    1,R,J
   14,R,D,X
@@ -431,7 +438,7 @@ console load MidwayContest2022/1-Maps/va2m
   28,D
    4
 
-#lvl_a_hub
+#lvl_a_hub (5)
    4,R,Z
    1,R,J
    6,R
@@ -443,9 +450,9 @@ console load MidwayContest2022/1-Maps/va2m
   17,L,J
   14,U,X
    4,J
+  40
 
 #lvl_a_keyroom
-  40
   11,R,J
   11,R,D,X
    4,R,J
@@ -453,4 +460,4 @@ console load MidwayContest2022/1-Maps/va2m
   42,U,C
  135
 
-ChapterTime: 0:50.303(2959)
+ChapterTime: 0:49.368(2904)
