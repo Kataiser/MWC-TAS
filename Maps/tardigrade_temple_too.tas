@@ -2,7 +2,7 @@
 # MidwayContest2022
 # https://gamebanana.com/mods/387247
 
-RecordCount: 1350
+RecordCount: 1540
 # + 393!
 
 console load MidwayContest2022/1-Maps/TardigradeTempleToo
@@ -12,91 +12,126 @@ console load MidwayContest2022/1-Maps/TardigradeTempleToo
   88
 
 #lvl_00
-  10,R,Z
+   8,L,Z
+   1,R,J
+   7,R
   13,R,J
-   8,R
-  10,R,Z
-  18,R,J
-   5,R,X
-   7,R,J,G
-  10,R,K,G
-  19,R
-  10,R,Z
-  13,R,J
-   5,R,X
-   6,R,J,G
-   9,R
-   7,R,J
+  11,R,D,X
+   1,R,J,G
+  11,R
+  11,R,J
+   6,R,D,X
+   1,R,K,G
+   2,R,J,G
+   1,R,K,G
+   1,R,J,G
+   6,R
+   1,R,J
+   2,R
+   8,R,J
+   7,R
+  14,R,X
+   2,R,J,G
    5,R
+   5,R,K
+   1,R
+   2,R,D,J
+   2,R,D
   40
 
+
 #lvl_01
-  37,L,D
-  14,R
-  27,R,U,X
-   1,G
-   8,R,D
-  12,D
-   7,R,D
-  20,R,X
+   6,R,J
+  15,D,X
+   5,D
+
+   7,L,D
+  13,R
+  27,R,U,Z
+   1,R,G
+  16,D
+  13,R,D
+  18,R,X
+  10,R,U,Z
+  33,R
+  15,R,U,X
+   5,R
+  32,L,X
+  14,U,C
    1,R
-  28,R,U,X
+   1,R,J,G
+  36,R,G
+   1,R,U,G
    1,R
-  31,R,U,X
-   1
-   5,L,X
-  27
-  13,U,X
-  31,R,U,G
-  19,R,G
+   1,R,J,G
+   1,R,K,G
    5,R,J,G
-  62,R
-  15,R,D,X
-  19,R
-  14,R,U,Z
-  11,R,J
-   9,R
-   8,R,Z
+   5,R
+   1,R,J
+  40,R,D
+  13,R,U,Z
+   1,L
+   9,J,G
+   3,R,J,G
+   7,R
+   5,R,Z
+   1,R,J
+   1,R
   40
 
 #lvl_02
-   6,R,Z
-  30,R,J
-   8,R,X
-   7
-  15,R,U,X
-  18,R
-   9,D
-  28,L,U,G
-  12,L,J,G
-  19,L
-  27,R,D
-  17,L,U,X
-  12,L
-  16,L,X
-   2,L,J,G
-  11,D
-   1
-  10,L,Z
-   9,R,J
-   9,L,U,X
-  40,R
-  42,R,U,X
-   9,L
-  15,U,X
-  13,D
-  13,R,D
-  21,D
-  15,R,Z
+   6,R
+  11,R,J
+  10,R
+  15,R,X
    1,R
-  15,U,X
-  19
-  35,L,G
-  31,R,J
-  45,L,D
-  18,L,X
+   1,R,G
+  10,R,J,G
+  11
+   1,J
+   8,R
+   1,L,J,G
+   1,J
+   6,K,G
+   3
+  13,L
+   1,R
+   2,L
+   1,R
    1,L
-  53,U,X
+   1,R
+   1,L
+   9,R,D
+  14,L,D
+  17,L,U,X
+  13,L
+  18,L,X
+   1,J
+   7,L
+   6
+   1,L
+   2
+  14,R,X
+  16,R,J
+  14,R
+   1,R,J
+   6,R
+  15,U,X
+  32,R,D
+   5,D
+  13,R,D
+  15,R,U,Z
+   4,L,U,X
+   1,L,J,G
+  39,L,U,G
+   2
+   1,J
+   2,K,G
+  24,R,K
+   4,R
+  44,L,D
+  19,L,X
+  53,U,C
   40
 
 #lvl_03
@@ -414,4 +449,4 @@ Repeat 30
 EndRepeat
    1,R,D
 
-ChapterTime: 1:19.611(4683)
+ChapterTime: 1:16.058(4474)
