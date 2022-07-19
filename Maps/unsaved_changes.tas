@@ -1,4 +1,4 @@
-RecordCount: 686
+RecordCount: 687
 
 console load MidwayContest2022/1-Maps/untitled
    1
@@ -85,13 +85,15 @@ console load MidwayContest2022/1-Maps/untitled
   21,R
    1,R,J,G
   30,R,K,G
-  51,R,G
-   1
+  45,R,G
+   6
   10,J,G
    3,L,J
   50
   13
-  85,L
+  38,L
+   2,L,D
+  45,L
   13,L,D,X
    3,L
    3
@@ -376,4 +378,4 @@ console load MidwayContest2022/1-Maps/untitled
   20,R,U,X
  136
 
-ChapterTime: 1:05.841(3873)
+ChapterTime: 1:05.824(3872)
