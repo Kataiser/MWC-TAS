@@ -1,4 +1,4 @@
-RecordCount: 510
+RecordCount: 528
 
 console load MidwayContest2022/1-Maps/MWC2022_Asgord
    1
@@ -267,14 +267,12 @@ console load MidwayContest2022/1-Maps/MWC2022_Asgord
    2,R
   60
   14,R
-  38,L,G
-   3,G
-   3,J,G
+  31,L,G
+   3,U,G
   10,L,U,X
    8,R,J
-  10,R,K
-   8,K
-  19,U,X
- 136
+  19,R,K
+  20,U,X
+ 135,D
 
-ChapterTime: 0:44.948(2644)
+ChapterTime: 0:44.812(2636)
