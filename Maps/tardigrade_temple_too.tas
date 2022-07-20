@@ -2,8 +2,7 @@
 # MidwayContest2022
 # https://gamebanana.com/mods/387247
 
-RecordCount: 2098
-# + 393!
+RecordCount: 2491
 
 console load MidwayContest2022/1-Maps/TardigradeTempleToo
    1
@@ -468,10 +467,10 @@ EndRepeat
    2,L
   12
   34,U,X
-Repeat 30
+Repeat 29
    2,R,D
    2,L,D
 EndRepeat
-   1,R,D
+   3,R,D
 
 ChapterTime: 1:12.131(4243)
