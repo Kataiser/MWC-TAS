@@ -1,4 +1,4 @@
-RecordCount: 2748
+RecordCount: 2750
 
 console load MidwayContest2022/1-Maps/untitled
    1
@@ -401,7 +401,7 @@ Endrepeat
    1,R,J
   11,R
    8,R,J
-  22,R,U,X
- 134,L,D
+  20,R,U,X
+ 135,L,D
 
 ChapterTime: 0:57.800(3400)

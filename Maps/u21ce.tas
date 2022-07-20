@@ -1,14 +1,12 @@
-RecordCount: 2014
+RecordCount: 2017
 
 console load MidwayContest2022/1-Maps/u+21ce
    1
 
-#start
-
+#Start
  190
 
-# lvl_0
-
+#lvl_0
   14,X
    1,J
    4,Z
@@ -44,8 +42,7 @@ console load MidwayContest2022/1-Maps/u+21ce
   21,J
   18,D,X
 
-# lvl_1
-
+#lvl_1
   14,C
    1,J
    4,Z
@@ -79,9 +76,7 @@ console load MidwayContest2022/1-Maps/u+21ce
   41,D,X
    1,J
    5
-
-# 2nd time around lvl_1
-
+#2nd time around lvl_1
    4,G
    1
    1,K
@@ -129,8 +124,7 @@ console load MidwayContest2022/1-Maps/u+21ce
    2
   16,X
 
-# lvl_2 (1)
-
+#lvl_2 (1)
   10,C
    1,J
    4,K
@@ -183,8 +177,7 @@ console load MidwayContest2022/1-Maps/u+21ce
    1,C
   81
 
-# lvl_2 (2)
-
+#lvl_2 (2)
    1,G
    1
    1,J
@@ -251,8 +244,7 @@ console load MidwayContest2022/1-Maps/u+21ce
    1,X
   78
 
-# lvl_tutorial
-
+#lvl_tutorial
    1,J
    1,K
   15
@@ -269,8 +261,7 @@ console load MidwayContest2022/1-Maps/u+21ce
   19,J
    4
 
-# lvl_3
-
+#lvl_3
    7,X
    1,J
   15
@@ -423,8 +414,7 @@ console load MidwayContest2022/1-Maps/u+21ce
    1,J
    7
 
-# lvl_4
-
+#lvl_4
    1,J
    2
    1,J
@@ -518,12 +508,11 @@ console load MidwayContest2022/1-Maps/u+21ce
    1,X
  409
 
-# lvl_outro
-
+#lvl_outro
 Repeat, 5
   15,X
   15,C
 EndRepeat
- 135
+ 134
 
 ChapterTime: 1:16.177(4481)
