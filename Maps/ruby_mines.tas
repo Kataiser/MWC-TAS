@@ -1,13 +1,13 @@
 #tirednwired
-RecordCount: 1998
+RecordCount: 2093
 
 console load MidwayContest2022/1-Maps/fraz
    1
 
-#start
+#Start
   99
 
-#lvl-00
+#lvl_dm-00(0)
    1,D,J
    3,D
   10,L,D
@@ -21,7 +21,7 @@ console load MidwayContest2022/1-Maps/fraz
    3,R
   40
 
-#lvl-01
+#lvl_dm-01
   11,R
    1,R,J
    1,R
@@ -34,59 +34,53 @@ console load MidwayContest2022/1-Maps/fraz
    1,L,J
    7,L
    9,L,J
-  24,L
-   5,L,X
-   4,L,J,G
+  23,L
+   6,L,Z
+   1,L,J
    6,L
   40
 
-#lvl-02
-   9,L
-  11,L,Z
-  12,L,Z,G
-  12,L,J,G
+#lvl_dm-00 (1)
    1,L
-  15,R,D,X
-  29,R,G
-  21,U,G
+   1,L,J
+  11,L,D,X
+  19,L,G
+   2,L,J,G
+  10,L,J
+  18,L
+   8
    5,R
-Repeat 13
-   1,L,D
-   1
-   1,R,D
-   1
-EndRepeat
-  14,R,Z
+  20,R,J
+  14,L,D,X
+   1,L,J
+   6,L,D,X
    1,L,J
    7,L
    1,L,J
-  14,L
-   6,L,U,X
-   1,L,J,G
-   1,L,K,G
-   1,L
-   5,L,J
   40
 
-#lvl-03
-   4,L,J
-  27,L,J,G
-   6,L,D
-  34,D,X
-  12,R,C
-   1,R,G
-  14,R,D,G
-  27,D,G
-  10,L,D,G
-   1,D,G
+#lvl_dm-02
+   9,L,D,X
+  13,L,G
+   1,L,J,G
+  16,L,D,G
+   4,L,D
+  15,D,X
+   3,L,D
+  13,D
+   8,R,D
+  11,R,X
+  15,R,D,G
+  29,D,G
+   5,L,D,G
    1,L
-   1,D
+   2,L,D
    6,J
    5,D,X
   36,R,D,X
   40
 
-#lvl-04
+#lvl_dm-03
    6,R,D
   12,R,D,X
    3,L,J
@@ -132,7 +126,7 @@ EndRepeat
    3,R
   40
 
-#lvl-05
+#lvl_dm-00 (2)
    4,R
    2,R,J
   14,R,D,X
@@ -148,7 +142,7 @@ EndRepeat
    5,R,D,X
   40
 
-#lvl-06
+#lvl_dm-04
    6,R,D,X
   28,L
   10
@@ -191,7 +185,7 @@ EndRepeat
    2,R
   40
 
-#lvl-07
+#lvl_dm-05
    7,R
   13,R,J
   10,R,U,X
@@ -230,7 +224,7 @@ EndRepeat
   11,L
   40
 
-#lvl-08
+#lvl_dm-06
    6,L
    8,L,J
   12,L
@@ -277,7 +271,7 @@ EndRepeat
    4,L,J
   40
 
-#lvl-09
+#lvl_dm-00 (3)
   12,L
   14,R,D,X
    3,L,J
@@ -350,4 +344,4 @@ Repeat 20
    2,L,J
 EndRepeat
 
-ChapterTime: 1:01.914(3642)
+ChapterTime: 1:00.401(3553)
