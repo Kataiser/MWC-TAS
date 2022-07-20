@@ -2,7 +2,7 @@
 # MidwayContest2022
 # https://gamebanana.com/mods/387247
 
-RecordCount: 1813
+RecordCount: 2042
 # + 393!
 
 console load MidwayContest2022/1-Maps/TardigradeTempleToo
@@ -39,26 +39,25 @@ console load MidwayContest2022/1-Maps/TardigradeTempleToo
    2,R,D
   40
 
-
 #lvl_01
    6,R,J
   15,D,X
    5,D
-
    7,L,D
   13,R
   27,R,U,Z
    1,R,G
-  16,D
-  13,R,D
+  14,D
+   8,R,D
+   1,D
+   5,R,D
   18,R,X
-  10,R,U,Z
-  33,R
+   8,R,U,Z
+  31,R
   15,R,U,X
-   5,R
+   6,R
   32,L,X
-  14,U,C
-   1,R
+  15,U,C
    1,R,J,G
   36,R,G
    1,R,U,G
@@ -68,11 +67,11 @@ console load MidwayContest2022/1-Maps/TardigradeTempleToo
    5,R,J,G
    5,R
    1,R,J
-  40,R,D
-  13,R,U,Z
+  29,R,D
+  11,R
+  12,R,U,Z
    1,L
-   9,J,G
-   3,R,J,G
+  11,J,G
    7,R
    5,R,Z
    1,R,J
@@ -202,27 +201,37 @@ EndRepeat
    6,R,X
    1,K
    1,R,J,G
-   7,L,J,G
+   2,L,J,G
+   5,L
   15,L,D,X
-   9,L,D
-   2,L,J
+   8,L,D
+   1,L,J
+   2,L
   40
 
 #lvl_05
-   4,L,J
+   1,L
+   2,L,K,G
+   1,L
    1,S
    1,D,J
   34
-   3,L,D
+   3,L
   18,D,X
-  28,D
+   5,L
+  20,D
    9,R,D,J
   15,U,X
-   8,R
-  50,L
-   7,D
+   7,R
+  47,L
+   3,L,D
+   4,D
+   1,L,D
+   1,D
+   2,L,D
   15,L,Z
-   9,L,U,C
+   1,L
+   9,U,C
   15,U,X
   13,L,C
   17,L,X
@@ -455,4 +464,4 @@ Repeat 30
 EndRepeat
    1,R,D
 
-ChapterTime: 1:13.151(4303)
+ChapterTime: 1:13.015(4295)
