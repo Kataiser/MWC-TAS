@@ -1,5 +1,5 @@
 #tirednwired
-RecordCount: 1968
+RecordCount: 1998
 
 console load MidwayContest2022/1-Maps/fraz
    1
@@ -11,12 +11,7 @@ console load MidwayContest2022/1-Maps/fraz
    1,D,J
    3,D
   10,L,D
-  23,D
-Repeat 2
-   1
-   1,R,D
-   1
-   1,L,D
+  24,D
 EndRepeat
   10,R,Z
    5,R,J
@@ -205,21 +200,15 @@ EndRepeat
   25,L,D,G
   10,R,D,G
    4,D,G
-  18,G
-   3
-   5,R,Z
-   1,R,J
-   9,R
-  14,L,X
-  23,R,J,G
-   1,R
-  20,L,D
+  37,R,G
+  15,R,J,G
+  10,R,D
+   7,L,D
    1,L,D,J
-  14,L,D
-   2,L
+  19,L
    4
    1,L
-  18
+  14
 #??????
   14,R,Z
    1,L,J
@@ -362,4 +351,4 @@ Repeat 20
    2,L,J
 EndRepeat
 
-ChapterTime: 1:02.373(3669)
+ChapterTime: 1:01.914(3642)
