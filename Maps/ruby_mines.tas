@@ -1,13 +1,14 @@
+
 #tirednwired
-RecordCount: 2093
+RecordCount: 3946
 
 console load MidwayContest2022/1-Maps/fraz
    1
 
-#Start
+#start
   99
 
-#lvl_dm-00(0)
+#lvl_dm-00
    1,D,J
    3,D
   10,L,D
@@ -26,29 +27,28 @@ console load MidwayContest2022/1-Maps/fraz
    1,R,J
    1,R
   20,R,Z
-  26,R,J,G
+  24,R,J,G
+   2,R,G
    9,R
-  35,D,X
-   2,L,D
-   5,L,Z
+  18,D,X
+   6,D
+  12,L,D
+   4,L,Z
    1,L,J
    7,L
-   9,L,J
-  23,L
-   6,L,Z
+  17,L,J
+  17,L,D,X
    1,L,J
-   6,L
+   8,L,D,X
   40
 
-#lvl_dm-00 (1)
-   1,L
-   1,L,J
-  11,L,D,X
-  19,L,G
-   2,L,J,G
-  10,L,J
-  18,L
-   8
+#lvl_dm-00
+   6,L,D,X
+  20,L,G
+  10,L,J,G
+   1,L,D
+  16,L
+   4
    5,R
   20,R,J
   14,L,D,X
@@ -70,172 +70,179 @@ console load MidwayContest2022/1-Maps/fraz
   13,D
    8,R,D
   11,R,X
-  15,R,D,G
-  29,D,G
-   5,L,D,G
+  16,R,D,G
+  24,D,G
+   7,L,D,G
    1,L
    2,L,D
-   6,J
-   5,D,X
-  36,R,D,X
+   2,D
+   1,R
+   3
+   1,J
+  15,D,X
+  17,R,D
+   7,L,D
   40
 
 #lvl_dm-03
-   6,R,D
-  12,R,D,X
-   3,L,J
-   5,L,D,X
-  12,R,D,X
-  19,R,D,G
+   5,L,D
+#could look into bino int
+#storage here
+  14,R,D,X
+   1,L,J
+  15,L,D,X
+   2,L
+   1
+  17,G
+   2,L,G
    1,L,G
-   1,L,J,G
-  11,L,G
+   3,G
    1,L
-  23,R,D,X
-  20,R,U,G
-  18,G
-  32,R,D
-   1,D
-   5,L,Z
-   1,L,J
-   7,L
-   1,L,J
-  17,L
-  17,L,D,G
-  17
-  12,L,Z
-   4,R,J
-   1,L,J
-   7,R,J
-  26,R,G
+  16,R
+  13,R,D
+  21,R,Z
+   5,R,J
    1,R
-  11,L,X
-  14,R,J
-   5,R,D,X
-  14,R,X
-  21,R,G
-  37,R,J
-   1,R,K,G
-   1,R,J,G
-  24,R,K,G
-  15,U,X,G
-   9,R,J,G
-   7,R
-   5,R,Z
+   5,R,J
+  10,R
+  19,L,D
+  10,L,D,X
+   1,L,J
+   6,L,D
+  19,D
+  14,L,D,X
    1,R,J
+  13,R,D,X
+  24,R,G
+   4,R,J,G
+  10,R,G
+   1,R,D
+   3,R
+   1,G
+  12,J,G
+  12,K,G
+  14,J,G
+  12,U,G
+  13,J,G
+   5,R,Z
+   2,R,J
    3,R
   40
 
-#lvl_dm-00 (2)
+#lvl_dm-00
    4,R
-   2,R,J
-  14,R,D,X
-  20,R,J
-  12,R,D,X
-   2,R,J
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-   2,R,J,G
-  14,R,D,X
    1,R,J
-   5,R,D,X
+   9,R,D,X
+   1,R,J
+   7,R
+  14,R,J
+  16,R,D,X
+   2,R,J
+   1,R,K,G
+  11,R
+   1,R,J
+   8,R,D,X
   40
 
 #lvl_dm-04
    6,R,D,X
-  28,L
+   3
+   7,R
+  17,L
   10
-   7,U,X
+   6,U,X
   17,J,X
-  25,R,J,X
+  24,R,J,X
+   1,R,K,G
+   1,R,J,G
+  12,R
+  28
+  12,L,Z
+   2,R,J
    4,R,K,G
-  28,R
-  24
-  10,L,X
-   1,R,J
-  27,R,J,G
-   1,R,J
-  23,U,X,G
-   9
-   8,U,C,G
-  25,R
-  13
-   5,L,Z
-   1,L,J
-  21,L,D
+  12,R,J,G
+   2,R,J
+   9,J
+  17,U,X
+  12,G
+  11,L,G
+   1,R
+  26,L,X
    5,R,Z
   13,R,G
    1,R,J,G
-   9,R,G
-  58,L,D,G
-   4,R,D,G
-  27,L,D,G
+   7,R,G
+  92,L,D,G
    1,L
-   5,R,X
-  31,D
-  14,R,Z
-   1,L,J
-  10,L,D,X
+   5,R,Z
+  23,D
+   7,R,D
+  12,L,D,X
+   3,R,J
+   8,R,D,X
    1,R,J
    7,R
-   1,R,J
-  10,R,D,X
-   3,R,J
-   2,R
+   1,J
+   2,R,J
+   6,R,U,X
   40
 
 #lvl_dm-05
-   7,R
-  13,R,J
-  10,R,U,X
-  13,R,G
-  25,L,D,G
-  10,R,D,G
-   4,D,G
-  37,R,G
-  15,R,J,G
-  10,R,D
-   7,L,D
-   1,L,D,J
-  19,L
-   4
+   6,R,D,X
    1,L
-  14
-#??????
-  14,R,Z
-   1,L,J
-   5,L,D,X
-  17,L,X
-  25,L,G
-  15,L
-   5,L,D
+   8,J,G
+   1,R,J
+  14,R,X
+  13,R,G
+  25,R,D,G
+   1,R
+   6,R
+  11,L,Z
+   1,R,J
+   6,R
+   1
+   1,R,J
+   4,R
+  12,R,G
+   9,R
+   1,R,D
+   4,R
+  31,L,D
+  14,L,X
+  27,L,G
+   5,L,D,G
+   1,L,D
+   7,L,D
    1,L,J,G
-  30,L,K,G
-  15,R,D
-  43,L,J
-  10,L,Z
-   1,L,J,G
-   1,L,K,G
-  13,L
+  21,L,K,G
+  21,L,D
+  15,L,U,X
+  32,L
+   4,L,Z
+   2,L,J
+   8,L
    1,L,J
-   9,L,U,X
+   8,L,U,X
    1,L,J,G
   11,L
   40
 
 #lvl_dm-06
-   6,L
-   8,L,J
-  12,L
+   4,L,J
+   1,L
+   6,L,J
+   1,L
+   3,L
+   1,L
+   2
   10,L,D,X
    1,L,J
   21,L,J,G
-   5,L,J
+   2,L,J
    9,U,X
   13,U,X,G
    1,R,X
-  26
+  25
    6,L,U,X
    6,L,J,G
   39,L
@@ -271,7 +278,7 @@ console load MidwayContest2022/1-Maps/fraz
    4,L,J
   40
 
-#lvl_dm-00 (3)
+#lvl-09
   12,L
   14,R,D,X
    3,L,J
@@ -344,4 +351,4 @@ Repeat 20
    2,L,J
 EndRepeat
 
-ChapterTime: 1:00.401(3553)
+ChapterTime: 0:55.658(3274)
