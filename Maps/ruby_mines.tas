@@ -1,6 +1,7 @@
 
 #tirednwired
-RecordCount: 3946
+RecordCount: 3980
+#+ 237
 
 console load MidwayContest2022/1-Maps/fraz
    1
@@ -228,44 +229,34 @@ console load MidwayContest2022/1-Maps/fraz
   40
 
 #lvl_dm-06
-   4,L,J
-   1,L
-   6,L,J
-   1,L
-   3,L
-   1,L
-   2
-  10,L,D,X
+   6,L
+   9,L,J
+  12,L,D,X
    1,L,J
   21,L,J,G
-   2,L,J
+   5,L,J
    9,U,X
   13,U,X,G
    1,R,X
-  25
-   6,L,U,X
-   6,L,J,G
-  39,L
-   5,R,D,X
-  21,R,X
-   5,R,D,C
-   9,R,X
-  11,R,J
-  13,R,J,G
-  29,L,D,G
-   8,D,G
+  11
+  11,R,D
+  32,D
+   8,R,D
+   5,R,Z
+  18,R,J,Z,G
+  37,L,D,G
    1,L
   14,R,D
-  26,L,D
+  25,L,D
   14,L,Z
    1,L,J
-   6,L,D,X
+   7,L,D,X
   13,L,D,X,G
   21,L,J,G
-   2,K,G
-  25,L,K,G
+   1,K,G
+  26,L,K,G
    1,J,G
-  11,L,J,G
+  12,L,J,G
    1,L,D
   11,U,X
    1,U,X,G
@@ -351,4 +342,4 @@ Repeat 20
    2,L,J
 EndRepeat
 
-ChapterTime: 0:55.658(3274)
+ChapterTime: 0:54.927(3231)
