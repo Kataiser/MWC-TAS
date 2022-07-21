@@ -1,6 +1,6 @@
 
 #tirednwired
-RecordCount: 3980
+RecordCount: 4000
 #+ 237
 
 console load MidwayContest2022/1-Maps/fraz
@@ -125,8 +125,8 @@ console load MidwayContest2022/1-Maps/fraz
   14,J,G
   12,U,G
   13,J,G
-   5,R,Z
-   2,R,J
+   6,R,Z
+   1,R,J
    3,R
   40
 
@@ -136,13 +136,14 @@ console load MidwayContest2022/1-Maps/fraz
    9,R,D,X
    1,R,J
    7,R
-  14,R,J
-  16,R,D,X
+  10,R,J
+   4,R
+  15,R,D,X
    2,R,J
    1,R,K,G
   11,R
    1,R,J
-   8,R,D,X
+   7,R,D,X
   40
 
 #lvl_dm-04
@@ -150,14 +151,17 @@ console load MidwayContest2022/1-Maps/fraz
    3
    7,R
   17,L
-  10
-   6,U,X
-  17,J,X
-  24,R,J,X
+   8
+   1,L
+   7,U,X
+   2,J
+  27,R,J
    1,R,K,G
-   1,R,J,G
-  12,R
-  28
+   5,R
+   3,R,J
+   5,R
+  22
+   7,R
   12,L,Z
    2,R,J
    4,R,K,G
@@ -208,17 +212,19 @@ console load MidwayContest2022/1-Maps/fraz
    9,R
    1,R,D
    4,R
-  31,L,D
+  29,L,D
+   2,D
   14,L,X
   27,L,G
    5,L,D,G
    1,L,D
    7,L,D
    1,L,J,G
-  21,L,K,G
-  21,L,D
+   9,L,K,G
+  17,L
+  13,L,D
   15,L,U,X
-  32,L
+  28,L,D
    4,L,Z
    2,L,J
    8,L
@@ -342,4 +348,4 @@ Repeat 20
    2,L,J
 EndRepeat
 
-ChapterTime: 0:54.927(3231)
+ChapterTime: 0:54.587(3211)
