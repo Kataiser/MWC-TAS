@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 1806
+RecordCount: 1844
 
 console load MidwayContest2022/1-Maps/RainbowTemple
    1
@@ -83,18 +83,18 @@ console load MidwayContest2022/1-Maps/RainbowTemple
   14,R
    8,R,J
    9,R
-  13,U,X
+  16,U,X
   11,R,U,C
    1,R,J,G
   31,D
-   7,R,X
+  10,R,X
    4,D,C
    5,R,C
-   8,U,X
+  11,U,X
    8,R,U,C
    1,R,J,G
   24,D
-   5,R,X
+   8,R,X
   14,R,D,C
    1,R,J
    4,R
@@ -105,17 +105,17 @@ console load MidwayContest2022/1-Maps/RainbowTemple
    1,R,D,J
    5,R
    7,R,J,G
-   8,U,X
+  11,U,X
    8,R,U,C
    5,R,J,G
    6,R
-  11,D,X
+  14,D,X
   15,R,C
    1,R
-  11,U,X
+  14,U,X
    7,R,C
    9,R,J,G
-  40,L,X
+  43,L,X
 #slow, a skip would be nice
   55,R,D
    1,R,J
@@ -132,7 +132,7 @@ console load MidwayContest2022/1-Maps/RainbowTemple
    5,R
   11,R,D,X
   21,R,J
-  11,U,X
+  14,U,X
    7,R,C
    3,R,J,G
    3,R
@@ -162,7 +162,7 @@ console load MidwayContest2022/1-Maps/RainbowTemple
   33,R,D
   26,L,D,X
   25,R,C
-  13,R,U,X
+  16,R,U,X
   15,U,C
    1,R,J
    1,J
@@ -174,7 +174,7 @@ console load MidwayContest2022/1-Maps/RainbowTemple
    5,D
   11,R,D,X
   25,R,J
-  13,U,X
+  16,U,X
   11,R,U,C
    1,R,J,G
    2,R
@@ -199,10 +199,10 @@ console load MidwayContest2022/1-Maps/RainbowTemple
    1,R,J,G
    1,R,K,G
   37,R,D
-  15,R,X
+  18,R,X
   15,U,C
   20,R,J
-  15,L,U,X
+  18,L,U,X
   10,U,C
    8,L,J
    1,J
@@ -229,10 +229,10 @@ console load MidwayContest2022/1-Maps/RainbowTemple
   14,R,U,X
    7,L,D
    4,R
-  15,R,D,X
+  18,R,D,X
   14,U,C
   14,R,J
-  12,U,X
+  15,U,X
   15,U,C
    2
    8,R
@@ -270,14 +270,14 @@ console load MidwayContest2022/1-Maps/RainbowTemple
    1,R,J
    1,R,K
    6,R
-  11,U,X
+  14,U,X
   14,R,U,C
    2,R,J,G
   18,R,D
   14,D
   26,R,X
   13,R,J
-  10,R,D,X
+  13,R,D,X
   14,R,D,C
   13,R,J
   25,R,X
@@ -316,7 +316,7 @@ console load MidwayContest2022/1-Maps/RainbowTemple
   36,R,D
   11,R,D,X
   19,R,J
-  10,D,X
+  13,D,X
    4,D,C
   11,R,C
    5,R
@@ -328,9 +328,9 @@ console load MidwayContest2022/1-Maps/RainbowTemple
    1,R,J,G
    1,R,K,G
   30,R,D
-   4,L,D,X
+   7,L,D,X
   15,D,C
-  10,R,U,X
+  13,R,U,X
   14,R,U,C
    1,R,J,G
    3,L,J
@@ -353,7 +353,7 @@ console load MidwayContest2022/1-Maps/RainbowTemple
   17,R,J
   11,R,D,X
   19,R,J
-   7,R,U,X
+  10,R,U,X
   15,U,C
    9,L
    2,L,J,G
@@ -364,14 +364,14 @@ console load MidwayContest2022/1-Maps/RainbowTemple
    1,L,J,G
   15,L
   35,L,X
-  15,R,C
+  18,R,C
   14,U,X
   15,L,J
    3,R,J
    4,R,K
-  40,L,X
+  43,L,X
   52,R
-   7,U,X
+  10,U,X
   10,U,C
    9,R,J
    1
@@ -392,10 +392,10 @@ console load MidwayContest2022/1-Maps/RainbowTemple
   11,R,J
   18,R,D
   60,L,D,X
-  10,R,U,C
+  13,R,U,C
   15,R,X
   17,R,D
-   6,R,U,X
+   9,R,U,X
   15,R,U,C
   11,R
   14,U,X
@@ -421,7 +421,7 @@ console load MidwayContest2022/1-Maps/RainbowTemple
    7,R,D
    6,L
   24,U,X
-  13,R,U,C
+  16,R,U,C
   14,U,X
   13,U,C
   45,U,X
