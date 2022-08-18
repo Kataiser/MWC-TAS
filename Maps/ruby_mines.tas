@@ -1,6 +1,6 @@
 
 #tirednwired
-RecordCount: 4745
+RecordCount: 4749
 #+ 237
 
 console load MidwayContest2022/1-Maps/fraz
@@ -345,5 +345,6 @@ Repeat 20
    2,R,J
    2,L,J
 EndRepeat
+   2,R,J
 
 ChapterTime: 0:50.116(2948)
