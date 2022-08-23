@@ -1,4 +1,4 @@
-RecordCount: 837
+RecordCount: 1685
 
 console load MidwayContest2022/1-Maps/bosssauce
    1
@@ -10,116 +10,101 @@ console load MidwayContest2022/1-Maps/bosssauce
    3,R,J
   14,R,Z
    4,R,J
-   1,R
-   1,R,J
-   7,R
-   1
-   1,R
+   2,R
+   2,R,J
+   4,R
+   3
    2,R,J,G
-   1,L,J,G
-   2,L
-  15,L,U,Z
-   5,R,J,G
-   2,R
-   5,R,J,G
+   3,L,J
+  14,L,U,Z
+   1,R
+   1,J,G
+   1,L,J
+   2,J
+   2,R,K,G
+   1,R,J,G
+   1,L,J
+  12,R,J
+   1,R,K,G
+   5,R
+   2
+   5,L,Z
+   2,R,J
+   1,R,K,G
+   1,R
+   1
    7,R
-   7,R,J
-   5,R,Z
-   1,R,J
-   3,R,K,G
-  16,R
    4,R,J
-   2,R
-   6,R,D,X
+   1,J
+  14,R,D,X
   40
 
 #lvl_a-01
-#could save time if you get the spinner cb?
-#   6,R,D,X
-#   9,R,J,G
-#  13,R,D,X
-#  15,L,J
-#  16,L,U,X
-#   6
-#  21,L,U,C
-#  25,R,D
-#  53,R,D
-#  14,R
-#   1
-#  13,L,D,X
-#   2,R,J
-#  12,R,U,X
-
-   6,R,D,X
-   1,R,J,G
-  10,R
-   1,J
-   1,J
+   2,D
+   3,R,J
+   6,R,K,G
   11,R,D,X
    9,L,J
    5,L
-   7,L,J
-   1,J
-   1,L,J
+   2,L,J
    1,L
+   1,L,J
+   3,L
   15,U,X
-   5
+   3,L
   15,L,U,C
-  25,R,D
-   6,R
+  22,R,D
+   8,D
    7,R
-  15,R,D,X
-   3,R
-   5,R,D
-   1,R
-   1,R,D
-   1,R,J,G
-   5
-   1,R
-   1
+  19,R,D,X
    6,R
-  10,R,J
-   3,R
-   1,R,K,G
-  10,R,J,G
-   4,R
-  15,R,X
-   8,R
+   1,R,J,G
+   4
+   1,R
    1,R,J
+   7,R
+   4,R,J
+   1,J
+   7,R,J
+   5,R,X
+   1,R,J,G
+   2,J
+  21,R,J
+   6,R
    4,Z
    1,R,J
-   5,R
+   4,R
+   1,R,J
   40
 
 #lvl_a-02
    1,R
    2,R,J
-  11,R,K,G
-  13,U,Z
+  10,R,K,G
+  13,U,X
   17,R,J
-  15,L,X
+   7,L,X
+   8
   37,R
   15,L,X
   48,R
   14,R
   29,R,D
-   1,R
-   4
-   2,R,D
+   6,R,D
   14,R,Z
-  21,R,J
+  20,R,J
   13,U,X
-  
-  42,R
-  14,R,U,X
+  45,R
+  11,R,U,X
    9,L
    3,L,J
   15,U,X
   40
 
 #lvl_a-03
-  15,R,J
-   9,R,Z
+   1,R
+  14,R,J
+   8,R,Z
    1,R,J
    1
    6,R
@@ -130,10 +115,11 @@ console load MidwayContest2022/1-Maps/bosssauce
   14,R,Z
   28,R,J
   14,R,U,X
-   4,R
-  15,R,D,C
+   5
   72,R
-  14,U,Z
+   2,R,D
+  15,U,Z
+   6,L
   19,R
   15,U,X
   15,U,C
@@ -149,140 +135,132 @@ console load MidwayContest2022/1-Maps/bosssauce
    1,R,J
   19,R,D,X
   14,R,Z
-   1,R,J
-   1
+   2,R,J
    5,R
   40
 
 #lvl_a-04
-   1,R
-   1,R,D,J
-   1,R
+   2,R
+   1,R,J
    1,R,K,G
-   1
-   1,R
-   1
-   1,R
-   1
-   1,R
-   1
-   4,R
+   9,R
   14,R,J
    9,U,X
   59,R
-  15,D,X
-  61,R,D
-  15,L,D,X
-  14,L
-  12,L,D,X
-   3,L
-  23,L,X
-  52,R
-   8,R
-  10,R
-  15,R,U,X
-  26,R,D
-  11,L,D,X
-   5,R,J
+  14,D,X
+  53,R
+   8
+  16,L,D,X
+   2,D
+   1,L,D
+   2,D
+   8,L
+  14,L,D,X
+   1,L
+  21,L,X
+  40,R
+  24,R,J,G
+  15,R,D,X
+   3,R
+   1,R,J
+   3,R
    5,R,D,X
-   2,R,J,G
-  12,R
-   1,D,J
+   1,R,J,G
+  12,R,D
+   1,R,J
   40
 
 #lvl_a-05
-   1,R,J
-   1,R
-  11,R,D,X
-   1,R,J,G
-   4
-   1,R
-   4
-   1,R
-   2
    2,R,J
-  14,R,D,X
-   6,L
-  15,L,U,X
+  10,R,D,X
+   1,R,J,G
+   9,R
+   1,R,J
+   7,R
+   2,R,J
+   7,L,J
+  11,L,U,X
   72,R
   12,U,X
    6,R,J
-  20,R,D
-   1,R,J
-   1,R
-  17,R,J
+  19,R,D
+   1,J
+  18,R,K
   54,R
   14,R,Z
   24,R,J
   15,R,X
   45,R
-  15,U,X
-   1,L
-   2
-   5,L
-   1,L
-   1
-   5,R,Z
-   1,R,J
-   8,R
-   1,R,D,J
-  24,R,D,X
-   1,R,J
-   5,R,K,G
-   7,R
+  25,U,X
+   6,R,Z
    1,R,J
    6,R
-   6,R,U,Z
+   1
+   1,R,D,J
+  17,R,D,X
+   6,R,D
+   1,R,D,J
+   3,R,K,G
+   2,R
+   1
+   1,R,J,G
+   4
+   6,R
+   4,R,D,J
   40
 
 #lvl_a-06
-   1,R,U,Z
-   1,L,J,G
-   4,R,J
-   3,R
-  16,R,D,X
-   4,R
-  12,R,J
+   8,R,D,J
+  15,R,D,X
+   3,R,J
+   1,R
+   7
+   1,J
   15,R,U,X
-  10,L
-   7
-   4,R
-   4,Z
-  22,R,J
-  16,L
-  15,U,X
-  14,L,J
-  20,L,X
-  22,L,C
+   1,R
+  19
+   9,R,Z
+  17,R,J
+   4
+  10,R,U,X
+  14,L
+  18,U,X
+  16,L,C
+  19,L,X
   15,R
-  10,R,D
-  15,R,X
-  12,R
-   7
+   1,R,D
+   1,R
+   9,R,D
+  21,R,X
+   7,R
+   6
   10,R,Z
    4,R,J
-   6,R,K,G
-   1,R
+   7,R,K,G
    5,R,D,X
   40
 
 #lvl_a-07
    1,R,D,X
    1,R,J,G
-  11,R
-  10,R,J
-   4,R
+   7,R
+   1,R,J
+   3,R
+  14,R,D,J
    6,U,X
-  89,R
+  83,R
+   1,R,D
+   1,R
+   3,R,D
   14,R,X
-  16,R,J
+  13,R,J
+   3,J
   11,L,U,X
    2,L,J,G
   25,L,D
    6,R,D
    6,D
- 132,R
-   1,R
+ 133,R
   10,R,D,X
    1,R,J,G
   11,R
@@ -290,14 +268,13 @@ console load MidwayContest2022/1-Maps/bosssauce
 
 #lvl_a-08
    1,R
-   1,R,J
-   1,R
-  11,R,D,X
    2,R,J
+  12,R,D,X
+   1,R,J
    5,L,J
   11,L,K,G
-  14,U,X
+  13,U,X
   13,D
  139,D,X
 
-ChapterTime: 0:48.314(2842)
+ChapterTime: 0:46.648(2744)
