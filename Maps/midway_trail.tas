@@ -1,6 +1,5 @@
 #By TheRoboMan & Kataiser
-
-RecordCount: 5565
+RecordCount: 5987
 
 console load MidwayContest2022/1-Maps/ZZ-HeartSide
    1
@@ -637,20 +636,20 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
    2,D
    2,L,D
    1,D
-  11,L,D
-   1,L,G
-  34,L,J,G
-  22,L,G
-   9,L,D,G
-   1,L,J,G
-  50,L,D,G
+  19,L,D
+   7,L,X
+  69,L,D,G
    1,R
-   7,L
-  15,L,D
-  15,L,X
-  80
-   6,L
-   1
+   6,L,D
+  10,D
+   1,L,D
+   1,D
+   5,L,J
+   5,L
+   1,L,J
+  18,L
+  73
+  12,L
   11,L,Z
   27,L,J
   53,L,G
@@ -860,17 +859,21 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
   14,R
    6,R,J
   15,U,Z
-   1
-  18,R,J
-   1,K
-   2,J,G
-  14,L,J
-  22,R,K
+   2,L,J,G
+   6,L
+   1,R
+   1,R,J
+   4,J
+  15,U,X
+   1,L
+   2,J
+  10,R,J
+   6,R
   12,R,J,G
-  10,K,G
+   8,K,G
    2,L,K
   16,L,J
-   3,K,G
+   4,K,G
   14,J,G
   12,K
    2,J
@@ -1258,27 +1261,26 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
    1,R,D
    1,R
    1,R,D
-  29
    2,L
-  14,R,D,X
+  14,L,X
+   8,J
+  12,R,D,X
    7,R,J
-   4,R
+   5,R
   16,R,J,G
   11,K
-   1
+   1,L
    7,R,J
    3,R,K,G
    5,R
-   2,R,J
-   8,R
+   4,R,J
+   6,R
   11,R,J
    7,R
-   4,R,J
-   7,R
+   3,R,J
+   8,R
   15,R,X
-  10,R
-   1
-   7,R
+  18,R
    5,R,J,G
    1,J
    4,R,J
@@ -1286,35 +1288,34 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
    2,R,J
    8,R
   10,R,J,G
-  29,R
+  24,R
+   5,R,D
   15,R,Z
-   1,R
-   2
-   1,R
+   4,R
   10,U,X
    6,L
+   2,R
+   8,L,U,X
   14,R
-  29,L
+  33,L
+  15,L,U,X
+  16,L
   15,L,U,X
   15,L
-  15,L,U,X
-  20,L
   12,L,J,G
-   3,L,K,G
-   8,J
-   2,R,J
-   1,R,J
-   1
-  19,R
+   7,K
+  20,R
   11,R,X
    7,R
   14,R,D,X
-  27,R,J
-   8,U,X
+   6,R,J
+  10,R
+  14,R,U,Z
+   1,L,J,G
   11,R,J
-   5,J
-  11,L,K
-   5,L,J,G
+  12,L,K
+   8,J,G
+   4,L,K,G
   14,L,Z
    1,L,J
    9,L,D,X
@@ -1374,8 +1375,15 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
    1,R,J
   15,R,D,X
   15,U,C
- 534
-   7,L
+  18
+Repeat 249
+   1,R
+   1,L
+EndRepeat
+   6,R,Z
+   1,L,J
+  18,L
+   3,L
    6,R,D,X
    1,R,J
    7,R
@@ -1436,18 +1444,21 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
    1,R,K,G
    1,R
   15,R,U,X
-  12,R
-  14,R,Z
+  10,R
+   2
+   4,Z
+   1,R,J
+   7,R
    1,R,J
    1,R,K
-   2,R
-   7,R,J,G
-  14,R,D,X
+   1,R
+   5,R,D,X
+   1,R,J,G
+  11,R
    1,R,J
-   5,R
-   2,R,K
-  20,R,J
-  27,R,U,X
- 122
+  18,R
+  10,R,K
+  14,R,U,X
+ 135
 
-ChapterTime: 3:59.513(14089)
+ChapterTime: 3:58.544(14032)
