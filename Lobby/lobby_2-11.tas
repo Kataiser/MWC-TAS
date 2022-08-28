@@ -18,19 +18,22 @@ console load MidwayContest2022/0-Lobbies/1-Maps main 10
    1,R,J
   15,R,D,X
   15,R,U,C
-  12,L
-  12
+  19,L
+   4
+   2,R
+   1
+  10,R
    8,L,Z
    1,R,J
    6,R
-  21,R,J
+   9,R,J
   15,R,D,X
-  26,R
-   3,R,D,J
-   6,R
-  14,R,D,X
-   2,R,J
-  16,R
+  22,R
+   5,R,D,J
+  13,R,D,X
+   1,R,J
+  15,R
    1,X
 
-#0:03.570(210)
+
+#0:03.383(199)
