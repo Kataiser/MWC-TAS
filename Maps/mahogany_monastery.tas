@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 2518
+RecordCount: 2520
 
 console load MidwayContest2022/1-Maps/SpringDream
    1
@@ -279,7 +279,8 @@ console load MidwayContest2022/1-Maps/SpringDream
   12,R,U,X
   13,U,C
   15,L,X
-  32,L,U,G
+  30,L,U,G
+   2,L,D,G
    4,J,G
    8,K,G
    5,R,K
