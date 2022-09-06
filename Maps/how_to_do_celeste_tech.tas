@@ -1,4 +1,4 @@
-RecordCount: 2590
+RecordCount: 2656
 
 console load MidwayContest2022/1-Maps/nyan
    1
@@ -32,14 +32,15 @@ console load MidwayContest2022/1-Maps/nyan
    1,R,J
    3,R
   15,R,D,X
-   7,R,J
+   5,R,J
+   6,R,U,X
   40
 
 #lvl_2
-   9,J
-   8,U,X
+   9,R,U,X
+   5,U,C
   13,R,J
-  13,R
+  14,R
    1
    1,J
    2
@@ -382,4 +383,4 @@ console load MidwayContest2022/1-Maps/nyan
    8,U,X
  135
 
-ChapterTime: 0:50.456(2968)
+ChapterTime: 0:50.439(2967)
