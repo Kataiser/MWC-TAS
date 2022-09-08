@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 1356
+RecordCount: 1510
 
 console load MidwayContest2022/1-Maps/DraftyDaze
    1
@@ -29,10 +29,20 @@ console load MidwayContest2022/1-Maps/DraftyDaze
    2,R
   20,R,J
   15,U,X
-  31,R,J
-   1,R
-   3
-  14,L,J
+  14,R,J
+   2,R
+   1
+   5,R
+   1,R,J
+   4,R
+   1,R,J
+   5,R
+   1,J,G
+   4,R
+   1
+   2,L
+   2,L,J
+   4,J
   28,U,X
   22,L,C
    4,L,J
@@ -250,6 +260,9 @@ console load MidwayContest2022/1-Maps/DraftyDaze
   20,R
   15,R,X
   19,R
+#would love a 6f bhop
+#here but idk if it's
+#possible
    5,L,Z
    1,R,J
    5,R
@@ -280,4 +293,4 @@ console load MidwayContest2022/1-Maps/DraftyDaze
   15,U,X
  137,D
 
-ChapterTime: 0:33.031(1943)
+ChapterTime: 0:32.997(1941)
