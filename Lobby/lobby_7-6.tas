@@ -1,0 +1,37 @@
+console load MidwayContest2022/0-Lobbies/1-Maps main 9
+   1
+
+#Start
+  36
+#I checked, this is faster
+#than going to the left
+   5,J
+   3,R,J
+   1,J
+   1,R,J
+  13,R,U,X
+   1,L
+   5,J,G
+   1,R,J
+   6,R
+   1,R,J
+   2,R,K
+   8,R
+  12,R,X
+   1,R,J
+   3,R
+  15,U,X
+   7,L
+   2
+   1,L
+   7,R,J
+   7,L,U,X
+   2,L,J,G
+   2,L
+   5,L,K,G
+   7,L
+   4,Z
+   1,L,J
+  16,L
+   1,X
+#0:02.125(125)
