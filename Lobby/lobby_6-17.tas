@@ -1,0 +1,27 @@
+RecordCount: 180
+console load MidwayContest2022/0-Lobbies/1-Maps main 6
+
+#Start
+  37
+   6,R,Z
+   7,R,J
+   1,R,K,G
+   3,R
+   1,R,J,G
+  12,R
+  65,R,D
+  36,D
+  21,R,D
+  15,U,X
+  15,R
+ 190
+   4,Z
+   1,R,J
+   7,R
+  17,R,J
+  14,R,D,X
+   1,R,J
+   2,R
+  15,D,C
+   1,X
+#0:07.123(419)
