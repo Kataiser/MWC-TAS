@@ -1,6 +1,6 @@
 # tirednwired
 
-RecordCount: 799
+RecordCount: 1348
 
 console load MidwayContest2022/1-Maps/DraftyDaze
    1
@@ -8,41 +8,45 @@ console load MidwayContest2022/1-Maps/DraftyDaze
 #Start
  190
 
-#a-00_start
-   8,R,Z
-   1,L,J
-   7,L
-   7,L,J
-  15,L,D,X
-   1,L,J
-  32,L,D,X
-   3,J
-   8,R,K
-  14,R,X
-   4,L
-   8,L,J
-   9,D,X
-   1,J
-  16,L,J
-  14,U,X
-  23,L
-   5,D,X
-  15,J
-   9,L,J
-  30,R,K
-  16,U,X
-  35,R,J
-   4,R
-   2,L
+#lvl_a-00_start
+  12,L,D,X
   15,L,J
-  28,U,X
-  26,L,C
-   2,L,J
-   5,L,X
+  17,L,D,X
+   3,L,J
+   2,L
+   2
+  11,L,D,X
+   1,R,J
+   5,R
+   7,R,J
+   4,R
+   1,R,J
+   3,R
+   1,R,J
+   2,R
+   3,L
+   9,D,X
+   2,J
+  14,L,J
+  14,U,X
+  22,L
+   9,D,X
+  14,J
+   5,R,J
+  13,U,X
+  20,R,J
+   1,L,J
+   1,R,J
+  24,R,K
+  38,U,X
+   4,L,J
+  23,L,C
+   4,L,J
+   7,L,D,X
   10,R
   15,U,X
-  34,R,J
-  26,R,C
+  35,R,J
+  26,R,Z
    4,R,J
   15,R,K
   14,R,D,X
@@ -51,94 +55,98 @@ console load MidwayContest2022/1-Maps/DraftyDaze
   13,R,Z
   40
 
-#a-01
-   1,R
+#lvl_a-01
+   1,R,Z
   26,R,J
   14,U,X
   10,L,J
   40
 
-#a-02
+#lvl_a-02
   11,L,J
   10,L,D,X
-  37,L
-  22,L,J
-  28,L,U,X
-  16,D
-   9,D,X
-   2,J
-  18,L,J
-  39,L,U,X
-   8,L,C
+  17,L
+  37,R,J
+  34,R,U,Z
+   4,R,J
+  18,L,D
+  13,L,Z
+   8,L,J
+  16,L,K
+  11,L
+  14,L,U,X
   13,R
   35,R,U,C
-   4,R,J
-  21,R,K
-  14,R,J
-   9,R,Z
-  33,L,J
+   8,R,J
+  16,R,K
+  13,R,J
+  10,R,Z
+  32,L,J
   39,L,K
   19,R,J
-   2,R
+   3,R
    9,U,X
-  40
+  43
 
-#a-03
-  14
-  10,L,D,X
-  28,R,J
-   9,R
-   3,R,J
-   6,R
-  14,R,U,X
-  30,R
-   2
-   2,R
-  37,R,J
-  21,R,U,X
+#lvl_a-03
+   5,R
+   1,L,J
+  11,L
+   4,X
+   1,L,J
+  10,L
+   9,D,X
+  40,R,J
+   9,R,D
+   5,L,X
+  13,R,J
+  20,R,U,X
    4,R,J
-   6,R,K
-  14,R,D,X
-  11,R
+   1,R,K
+  15,R,D,X
+   4,R,D
+   1
    1,R,J
-  14,R,X
-  18,R,J
-  16,R,U,X
-   8,R,J
-  11,R
-   4,R,X
+  14,D,X
    1,R,J
-  11,R
+  14,R
+  13,R,U,Z
+   1,R,J
+  17,R
+   6,X
+   5,R,J
   40
 
-#a-04
-   1,R
+#lvl_a-04
    3,R,J
-  14,R
+  12,R,D
   42,R,U,X
    4,R,J
-   4,R,C
-   1,R,J
-  11,R
+   7,R,C
+   5,R,J
+  10,R
   40
 
-#a-05
-  18,R,D
-  27,R,Z
+#lvl_a-05
+  15,R,D
+   4,R
+   2,R,D
+  31,R,Z
    4,R,J
-   4,R,X
-  25,R,J
+   7,R,X
+  22,R,J
   37,R,D,X
    4,R,J
   14,R,D,C
-  13,R
-   1,R,J
+   6,R
+   3,R,D
+   3,R
    4,R,X
    1,R,J
-   6,R
+   7,R
   40
 
-#a-06
+#lvl_a-06
    1,R
    4,R,J
   53,R,D,X
@@ -147,28 +155,33 @@ console load MidwayContest2022/1-Maps/DraftyDaze
   12,R,K
   21,R,D
   12,D
-  33,R
-  31,R,X
+  35,R
+  29,R,X
   40,R,C
-  14,R,Z
-   9,R,J
-  19,R
-  28,R,U,X
+   5,L,X
+   1,R,J
+   7,R
+  18,R,J
+   9,R
+   1,R,J
+   1,R
+  15,U,X
+  10,R
   14,R,C
    1,R,J
+   1,R
   40
 
-#a-06a
-   7,R
-  14,R,J
-  23,D,X
-  24,U,C
-   9,R
-  32,U,X
-Repeat 30
-   2,L,D
-   2,R,D
-EndRepeat
-   2,L,D
+#lvl_a-06a
+   4,R
+   2
+  15,R,J
+  11,D,X
+   8,L,J
+  15,U,X
+   9,L
+   4,C
+   1,L,D,C
+ 134,L,C
 
-ChapterTime: 0:35.972(2116)
+ChapterTime: 0:33.558(1974)
