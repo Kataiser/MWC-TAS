@@ -1,0 +1,75 @@
+console load MidwayContest2022/0-Lobbies/1-Maps main 21
+   1
+
+#Start
+  36
+   4,Z
+   1,R,J
+   7,R
+   3,R,D,J
+   5,R
+   2,R,J
+  14,R,D,X
+   3,R,J
+  14,R,D,X
+   8,R,J
+  14,R,D,X
+   1,R,J
+   8,R
+  15,D,X
+   6,L,D
+   1,S
+  35,D,J
+  15,L,D
+   4,L,Z
+   2,L,J
+   2,L
+   1,L,J
+   8,L
+  15,L,U,X
+ 242,D
+   5,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   8,R
+  14,R,U,X
+   1,R,J,G
+   9,R
+  43
+
+#lvl_heartsideent
+   9,R
+   4,R
+   3,R,D,J
+   7,R,K,G
+  15,U,X
+   1
+  28,R,J
+   2,R
+   1,R,J
+   1,R
+   1,R,K,G
+   7,R
+   4,X
+   7,R,J
+   5,R
+   2,R,J
+   6,R
+  10,L,D,X
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1
+   5,R
+  10,R,U,X
+   1,R,J,G
+   5,R
+   1,R,J
+  15,R
+   3,R,J
+  12,R
+   1,X
+#0:11.033(649)
