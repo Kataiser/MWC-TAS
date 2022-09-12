@@ -1,6 +1,6 @@
 # tirednwired
 
-RecordCount: 1348
+RecordCount: 1432
 
 console load MidwayContest2022/1-Maps/DraftyDaze
    1
@@ -63,10 +63,10 @@ console load MidwayContest2022/1-Maps/DraftyDaze
   40
 
 #lvl_a-02
-  11,L,J
-  10,L,D,X
-  17,L
-  37,R,J
+  11
+   9,D,X
+  17,J
+  11,R,J
   34,R,U,Z
    4,R,J
   18,L,D
@@ -85,17 +85,14 @@ console load MidwayContest2022/1-Maps/DraftyDaze
   39,L,K
   19,R,J
    3,R
-   9,U,X
+   4,D,X
+   6,L,J
   43
 
 #lvl_a-03
-   5,R
-   1,L,J
   11,L
-   4,X
-   1,L,J
-  10,L
-   9,D,X
+  15,L,D,X
+   9,D,C
   40,R,J
    9,R,D
    5,L,X
@@ -118,29 +115,28 @@ console load MidwayContest2022/1-Maps/DraftyDaze
   40
 
 #lvl_a-04
-   3,R,J
-  12,R,D
-  42,R,U,X
+   2,R,J
+  11,R,D
+  40,R,U,Z
    4,R,J
-   7,R,C
-   5,R,J
-  10,R
+   5,R,K
+  11,D,X
+   1,R,J
+   3,R
+   6,R,D,X
   40
 
 #lvl_a-05
-  15,R,D
-   4,R
-   2,R,D
-  31,R,Z
+  13,R
+  34,R,Z
    4,R,J
-   7,R,X
-  22,R,J
-  37,R,D,X
+   6,L,X
+  12,R,J
+   8,R
+  36,R,D,X
    4,R,J
-  14,R,D,C
-   6,R
-   3,R,D
-   3,R
+  15,R,D,X
+  11,R
    4,R,X
    1,R,J
    7,R
@@ -184,4 +180,4 @@ console load MidwayContest2022/1-Maps/DraftyDaze
    1,L,D,C
  134,L,C
 
-ChapterTime: 0:33.558(1974)
+ChapterTime: 0:32.810(1930)
