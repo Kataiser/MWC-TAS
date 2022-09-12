@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 1568
+RecordCount: 1677
 
 console load MidwayContest2022/1-Maps/DraftyDaze
    1
@@ -290,11 +290,12 @@ console load MidwayContest2022/1-Maps/DraftyDaze
    1,R,J
    6,R
    1,R,J
-   5,R
-  18,D,X
-  19,U,C
-  11,R
+   3,R
+   1
+  10,R,U,X
+   5,L,J
+  12,L,K
   15,U,X
  137,D
 
-ChapterTime: 0:32.929(1937)
+ChapterTime: 0:32.657(1921)
