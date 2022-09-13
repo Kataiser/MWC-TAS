@@ -1,6 +1,6 @@
 # tirednwired
 
-RecordCount: 1508
+RecordCount: 1515
 
 console load MidwayContest2022/1-Maps/DraftyDaze
    1
@@ -34,14 +34,13 @@ console load MidwayContest2022/1-Maps/DraftyDaze
   14,J
    5,R,J
   13,U,X
-  20,R,J
+  21,R,J
    1,L,J
-   1,R,J
-  24,R,K
+  23,R,K
   38,U,X
    4,L,J
   23,L,C
-   4,L,J
+   4,L
    7,L,D,X
   10,R
   15,U,X
@@ -183,4 +182,4 @@ console load MidwayContest2022/1-Maps/DraftyDaze
    1,L,D,C
  134,L,C
 
-ChapterTime: 0:32.657(1921)
+ChapterTime: 0:32.640(1920)
