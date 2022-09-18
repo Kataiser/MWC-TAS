@@ -1,8 +1,9 @@
 RecordCount: 180
 console load MidwayContest2022/0-Lobbies/1-Maps main 6
+   1
 
 #Start
-  37
+  36
    6,R,Z
    7,R,J
    1,R,K,G
