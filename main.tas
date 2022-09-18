@@ -1,0 +1,123 @@
+#read start
+unsafe
+console wipedebug
+console load MidwayContest2022/0-Lobbies/1-Maps
+   1
+
+read Lobby/lobby_0-1 Start
+read LoadEnter Start
+#read Maps/ Start
+ 110
+   1,S
+   1,U,J
+   1,O
+  32
+
+read Lobby/lobby_1-2 Start
+read LoadEnter Start
+read Maps/frozen_citadel Start
+  33,X
+
+read Lobby/lobby_2-5 Start
+read LoadEnter Start
+read Maps/cupids_garden Start
+  33,X
+
+read Lobby/lobby_5-4 Start
+read LoadEnter Start
+read Maps/the_midnight_library Start
+  33,X
+
+read Lobby/lobby_4-3 Start
+read LoadEnter Start
+read Maps/pristine_streams Start
+  33,X
+
+read Lobby/lobby_3-11 Start
+read LoadEnter Start
+read Maps/silent_wandering Start
+  33,X
+
+read Lobby/lobby_11-10 Start
+read LoadEnter Start
+read Maps/rainbow_temple Start
+  33,X
+
+read Lobby/lobby_10-9 Start
+read LoadEnter Start
+read Maps/drafty_daze-bouncy Start
+  33,X
+
+read Lobby/lobby_9-8 Start
+read LoadEnter Start
+read Maps/far_gone Start
+  33,X
+
+read Lobby/lobby_8-12 Start
+read LoadEnter Start
+read Maps/how_to_do_celeste_tech Start
+  33,X
+
+read Lobby/lobby_12-7 Start
+read LoadEnter Start
+read Maps/a_resort_bin Start
+  33,X
+
+read Lobby/lobby_7-6 Start
+read LoadEnter Start
+read Maps/effete Start
+  33,X
+
+read Lobby/lobby_6-17 Start
+read LoadEnter Start
+read Maps/tardigrade_temple_too Start
+  33,X
+
+read Lobby/lobby_17-18 Start
+read LoadEnter Start
+read Maps/mahogany_monastery Start
+  33,X
+
+read Lobby/lobby_18-16 Start
+read LoadEnter Start
+ 184
+   1,J
+ 136
+read Maps/unsaved_changes Start
+  33,X
+
+read Lobby/lobby_16-15 Start
+read LoadEnter Start
+read Maps/overgrown_dungeon Start
+  33,X
+
+read Lobby/lobby_15-14 Start
+read LoadEnter Start
+read Maps/ruby_mines Start
+  33,X
+
+read Lobby/lobby_14-13 Start
+read LoadEnter Start
+read Maps/ember_paradise Start
+console hearts
+  33,X
+
+read Lobby/lobby_13-20 Start
+read LoadEnter Start
+read Maps/midway_trail Start
+read LoadReenter
+
+read Lobby/lobby_0-9 Start
+read LoadEnter Start
+read Maps/drafty_daze.tas Start
+  33,X
+
+read Lobby/lobby_9-19 Start
+read LoadEnter Start
+ 184
+   1,J
+ 136
+read Maps/u21ce Start
+  33,X
+
+read LoadJournal
