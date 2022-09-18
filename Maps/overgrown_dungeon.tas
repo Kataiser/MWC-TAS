@@ -1,4 +1,4 @@
-RecordCount: 3178
+RecordCount: 3261
 
 console load MidwayContest2022/1-Maps/Overgrown_Dungeon
    1
@@ -11,7 +11,8 @@ console load MidwayContest2022/1-Maps/Overgrown_Dungeon
   35,D,J
   10,L,K
   14,R,D,X,G
-  13,R,J
+  12,R,J
+   1,R,D,J
    4,R,K,G
    1,R,D,G
   17,R,D,X
@@ -53,15 +54,14 @@ console load MidwayContest2022/1-Maps/Overgrown_Dungeon
    9,R,J
    6,R
    1,R,J,G
-   7,R
-   6
-  21,R,J
-  11,U,X
+  23,R,K,G
+   6,R
+  13,U,X
   36,L,J
    7,L,K
   14,R,D,X
    1,L,J
-   5,L,D,C
+   5,L,D,X
    1,L,J,G
   10,L
   40
@@ -82,17 +82,19 @@ console load MidwayContest2022/1-Maps/Overgrown_Dungeon
    1,L
    6,L,D,J,G
   15,U,X
-  21,L,D
-   2,L,D
+  23,L,D
    2,D
    3,L,D
    8,L,J
   10,R,D,X
-  36,L,J
+  23,L,J
+  13,L
+  15,U,Z
+   1
+  13,J
+   3,L,J
    2,J
-  17,U,X
-  15,J
-   6,L,J
+   1,L,J
   40
 
 #lvl_a-4
@@ -380,4 +382,4 @@ console load MidwayContest2022/1-Maps/Overgrown_Dungeon
   12,L,U,X
  135
 
-ChapterTime: 0:58.123(3419)
+ChapterTime: 0:57.987(3411)
