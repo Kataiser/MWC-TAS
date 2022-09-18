@@ -1,4 +1,4 @@
-RecordCount: 180
+RecordCount: 200
 console load MidwayContest2022/0-Lobbies/1-Maps main 6
    1
 
@@ -14,8 +14,25 @@ console load MidwayContest2022/0-Lobbies/1-Maps main 6
   36,D
   21,R,D
   15,U,X
-  15,R
- 190
+   2,L
+  11
+   8,R
+   1,J
+  33,R,J
+   3,J
+   1,K
+  35,R,K
+   1,L
+   9,L,Z
+   3,R,J
+   6,J
+  23
+  14,L,X
+   1,R,J
+   9,J
+  15,R,U,X
+  36,L
+   3
    4,Z
    1,R,J
    7,R
