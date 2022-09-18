@@ -1,5 +1,5 @@
 #By Kataiser
-RecordCount: 907
+RecordCount: 923
 
 console load MidwayContest2022/1-Maps/augustus
    1
@@ -102,6 +102,6 @@ console load MidwayContest2022/1-Maps/augustus
    1,L,J
   10,L,D,X
   12,L,J
- 139,U,X
+ 139,U,C
 
 ChapterTime: 0:13.736(808)
