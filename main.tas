@@ -6,12 +6,8 @@ console load MidwayContest2022/0-Lobbies/1-Maps
 
 read Lobby/lobby_0-1 Start
 read LoadEnter Start
-#read Maps/ Start
- 110
-   1,S
-   1,U,J
-   1,O
-  32
+read Maps/farewell_fire Start
+  33,X
 
 read Lobby/lobby_1-2 Start
 read LoadEnter Start
