@@ -3,7 +3,7 @@
 # MidwayContest2022
 # https://gamebanana.com/mods/387247
 
-RecordCount: 1522
+RecordCount: 1581
 
 console load MidwayContest2022/1-Maps/xoli
    1
@@ -45,14 +45,17 @@ console load MidwayContest2022/1-Maps/xoli
   40
 
 #lvl_ff-2a
-   1,R,J
+   2,R,J
   14,R,D,X
-  12,R,J,G
-  29,R
-  28,R,X
-  42,R
-  25,R,J
-   9,U,X
+   8,R,J
+   4,R
+  15,R,U,X
+  13,R,D
+   8,D
+  18,R
+  15,R,D,X
+   9,R,J
+  12,U,X
   13,R,J
   48,R
    1,R,J
@@ -70,25 +73,24 @@ console load MidwayContest2022/1-Maps/xoli
   10,R,J
    8,R
   14,R,Z
-   1,R,J,G
-  30,R
-  24,D
-   2,L,G
-   1,L,J,G
-  11
-   6,R
+  10,J,G
+   7,R,J
+   1
+   8,R
+   4,Z
    1,R,J
-   9,R
-  10,L,Z
-   9,R,J
-   1,R
-   2,R,J
-  17,R,D
-  39,R,Z
   11
-  23,R
-   5,J,G
-   6,R,J
+   1,R
+   3,R,J
+  20,R,D
+  15,R,Z
+   4
+  20,R
+  12
+  22,R
+   1
+   4,J,G
+   7,R,J
   24,R,D
    4,R,Z
    3,R,J
@@ -371,8 +373,8 @@ console load MidwayContest2022/1-Maps/xoli
    4,R,D,X
    1,R,J
    7,R
-   8,R,J
-  21,R,U,X
+  12,R,J
+  14,R,U,X
   82,L,D
 Repeat 6
    2
@@ -384,4 +386,4 @@ EndRepeat
    2,R,D
    2,L,D
 
-ChapterTime: 1:07.524(3972)
+ChapterTime: 1:05.841(3873)
