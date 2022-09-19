@@ -3,7 +3,7 @@
 # MidwayContest2022
 # https://gamebanana.com/mods/387247
 
-RecordCount: 1846
+RecordCount: 1883
 
 console load MidwayContest2022/1-Maps/xoli
    1
@@ -87,12 +87,12 @@ console load MidwayContest2022/1-Maps/xoli
 #lvl_ff-2
   11,R,D,X
    1,R,J
-  11,R,K
-   5,R
-   1,R,J
-  15,R,U,X
-  24,R,D
-   2,D
+  20,R,K
+  14,R
+   4
+   2,R
+   2
+  15,R,D,X
    4,Z
    1,R,J
   11
@@ -402,4 +402,4 @@ EndRepeat
    2,R,D
    2,L,D
 
-ChapterTime: 1:05.127(3831)
+ChapterTime: 1:05.110(3830)
