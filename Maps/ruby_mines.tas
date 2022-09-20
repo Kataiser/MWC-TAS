@@ -1,6 +1,6 @@
 
 #tirednwired
-RecordCount: 7023
+RecordCount: 7153
 #+ 237
 
 console load MidwayContest2022/1-Maps/fraz
@@ -224,8 +224,7 @@ console load MidwayContest2022/1-Maps/fraz
    2,G
    5,D,G
   25,L,D,G
-   1,L
-   6,L
+   7,L
    1,L,D
    5,L
    1,G
@@ -384,9 +383,13 @@ console load MidwayContest2022/1-Maps/fraz
    8,L,D,G
    7,L,G
   17,L
-  18,L,D
-  81,D
-  52,D,X
-  87,J
+  24,L,D
+  75,D
+  38,D,X
+  29,R,D
+Repeat 36
+   1,R,J
+   1,R,K
+EndRepeat
 
 ChapterTime: 0:48.348(2844)
