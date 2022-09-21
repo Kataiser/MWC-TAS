@@ -1,5 +1,5 @@
 #By Firethief1
-RecordCount: 1934
+RecordCount: 2068
 
 console load MidwayContest2022/1-Maps/xoli
    1
@@ -122,19 +122,13 @@ console load MidwayContest2022/1-Maps/xoli
   40
 
 #lvl_ff-3a
-  12,R
-   2,R,J
-   1,R
-   5
-   1,R
-   3,J
-   6
-   1,R
-   3,J,G
-   3
-   1,R
+  10,R
+   5,R,J
+  17,J
+   2
+   1,J
   14
-   2,L
+   2,D
   15,R,Z
    1,R,J
    1,R,K
@@ -173,23 +167,17 @@ console load MidwayContest2022/1-Maps/xoli
    3,L
   15,R,U,Z
    9,L
-  71,R
-  36,R,G
-   1
-   1,J
-  20,R,J
-   1,L,J
-   3,R,J
-   1,R,K,G
-   1,R,J,G
-   7,R,J
-  15,R,X
-  13,R
+  58,R,D
+   5,R
+   1,R,D
+  15,R,Z
+  37,R
+   7,D
    4,Z
    4,R,J
-  20,R
-   2,L
-   2,R,G
+  19,R
+   4
+   1,R,G
    4,Z
    2,R,J
    4,R
@@ -457,4 +445,4 @@ console load MidwayContest2022/1-Maps/xoli
   14,R,U,X
  135
 
-ChapterTime: 0:56.865(3345)
+ChapterTime: 0:56.015(3295)
