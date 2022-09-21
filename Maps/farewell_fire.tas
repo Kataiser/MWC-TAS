@@ -1,11 +1,13 @@
-#Firethief1
-RecordCount: 1927
+#By Firethief1
+RecordCount: 1934
 
 console load MidwayContest2022/1-Maps/xoli
    1
 
 #Start
   76
+
+#lvl_ff-0
   10,L,Z
    5,R,J
   15,R,D,X
@@ -31,6 +33,7 @@ console load MidwayContest2022/1-Maps/xoli
    1,R,J
    7,R
   40
+
 #lvl_01
    7,R,D,X
    1,R,K,G
@@ -55,6 +58,7 @@ console load MidwayContest2022/1-Maps/xoli
 #didnt get boost on purpose, you go too fast with it
    6,R
   40
+
 #lvl_ff-2a
    4,R
    2,L
@@ -71,8 +75,7 @@ console load MidwayContest2022/1-Maps/xoli
    2,R
    9,R,Z
    7,R,J
-  33,R
-   2,R
+  35,R
    8,R,D
    5,R,Z
    1,J
@@ -83,8 +86,8 @@ console load MidwayContest2022/1-Maps/xoli
    3,R,J
    2,R
   40
-#lvl_ff-2
 
+#lvl_ff-2
   11,R,D,X
    1,R,J
   18,R,K
@@ -109,17 +112,16 @@ console load MidwayContest2022/1-Maps/xoli
   15,R,Z
    5,R,D
    7,L,D
-   4,D,X
+   4,Z
    1,R,J
    1,R,K
    1,R,J,G
   10,R
    1,R,K
-]
    4,R
   40
-#lvl_ff-3a
 
+#lvl_ff-3a
   12,R
    2,R,J
    1,R
@@ -128,7 +130,6 @@ console load MidwayContest2022/1-Maps/xoli
    3,J
    6
    1,R
- 
    3,J,G
    3
    1,R
@@ -154,8 +155,8 @@ console load MidwayContest2022/1-Maps/xoli
    1,R,J
   10,R,D,X
   40
-#lvl_ff-3
 
+#lvl_ff-3
    2,R,D,X
    2,R,J
    2,R,K,G
@@ -167,8 +168,7 @@ console load MidwayContest2022/1-Maps/xoli
    5,L,D
   31,R
    1,J
-   8,R,J
-   1,R,J
+   9,R,J
    2,R
    3,L
   15,R,U,Z
@@ -185,13 +185,12 @@ console load MidwayContest2022/1-Maps/xoli
    7,R,J
   15,R,X
   13,R
-]
-   4,D,X
+   4,Z
    4,R,J
   20,R
    2,L
    2,R,G
-   4,D,X
+   4,Z
    2,R,J
    4,R
    3,R,J
@@ -200,8 +199,8 @@ console load MidwayContest2022/1-Maps/xoli
    1,R,J,G
    9,R
   40
-#lvl_ff-4
 
+#lvl_ff-4
    2,R
   24,R,J
    2,L,J
@@ -250,8 +249,8 @@ console load MidwayContest2022/1-Maps/xoli
   11,R
    3,R,J
   40
-#lvl_ff-5
 
+#lvl_ff-5
    4,R
    8,R,D,X
    2,R,J,G
@@ -269,16 +268,16 @@ console load MidwayContest2022/1-Maps/xoli
    2,R
    8,R,D,X
   40
-#lvl_ff-6a
 
+#lvl_ff-6a
    4,R,D
   10,R,J,G
   13,R
   15,R,J
    9,R,D,X
   40
-#lvl_ff-6
 
+#lvl_ff-6
    7,R,D,X
    9,R,J
    8,R,D
@@ -288,8 +287,8 @@ console load MidwayContest2022/1-Maps/xoli
    1,R,J,G
   22,R,D
   40
-#lvl_ff-7
 
+#lvl_ff-7
    3,R,D
 #better bumper placement = timesave
   11,R,J
@@ -299,8 +298,7 @@ console load MidwayContest2022/1-Maps/xoli
   10,L,D
   44,R
   12,R,U,Z
-
-   1,L,U,Z
+   1,L
    1,K,G
    4,K
    7,R,K
@@ -324,8 +322,8 @@ console load MidwayContest2022/1-Maps/xoli
    1,R,J,G
    6,R,D
   40
-#lvl_ff-8
 
+#lvl_ff-8
   12,R,D
    2,R,J
    1,R
@@ -360,11 +358,10 @@ console load MidwayContest2022/1-Maps/xoli
    3,R,K,G
    6,R,J,G
    2,L,D,J
-
    9,R,D,X
   40
-#lvl_ff-9a
 
+#lvl_ff-9a
    6,R,D,X
    2,R,J
    8,R
@@ -389,8 +386,8 @@ console load MidwayContest2022/1-Maps/xoli
    1,R,J
    3,R
   40
-#lvl_ff-9
 
+#lvl_ff-9
    4,R
    1,R,J
    1,R
@@ -444,8 +441,8 @@ console load MidwayContest2022/1-Maps/xoli
   13,R,D
    1,L,D
   40
-#lvl_ff-10
 
+#lvl_ff-10
    2,R,D
    1,R,J
    1,L,J
@@ -458,9 +455,6 @@ console load MidwayContest2022/1-Maps/xoli
   14,R
   12,R,J
   14,R,U,X
- 200
+ 135
+
 ChapterTime: 0:56.865(3345)
-
-
-
-   
