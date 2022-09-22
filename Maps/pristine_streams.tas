@@ -1,4 +1,4 @@
-RecordCount: 3514
+RecordCount: 3606
 
 console load MidwayContest2022/1-Maps/yoshachobi7
    1
@@ -422,17 +422,17 @@ console load MidwayContest2022/1-Maps/yoshachobi7
   37,D
    5,L,D
   13,L,X
-  15,R,C
-  20,R
-   5,R,D
-  14,R,D,X
-   6,R,U,J
-  14,U,Z
-   1,R,U,J
-   9,U,X
-  13,J,F,0.00001
-   5,U,X
-  12,U,J
+  15,R,U,Z
+  13,L,J,G
+   4,R,K
+  15,R,U,X
+  15,R,U,C
+  15,R,U,X
+   5,R
+  12,R,D,X
+   6,R,J
+   8,R,K,G
+
   14,R,X
   25,R,J
   15,U,X
@@ -513,7 +513,7 @@ console load MidwayContest2022/1-Maps/yoshachobi7
    1,R,J
   11,R,D
   21,R,J
-  15,R,U,X
+  14,R,U,X
  135
 
-ChapterTime: 1:04.481(3793)
+ChapterTime: 1:04.379(3787)
