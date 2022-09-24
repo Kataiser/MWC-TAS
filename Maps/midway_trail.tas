@@ -1,5 +1,5 @@
 #By TheRoboMan & Kataiser
-RecordCount: 8441
+RecordCount: 9017
 
 console load MidwayContest2022/1-Maps/ZZ-HeartSide
    1
@@ -380,50 +380,34 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
    1,R,J
    1
   26,R,D
-
-#-3f but hard to resync
-#   1,R,J
-#   7,J
-#   9
-#   4,J
-#   6,L
-#   1
-#   5,R,Z
-#   1,R,J
-#   2
-#   4,R
-#   1,R,J
-#   2,R
-#  15,R,D,X
-#  23,R,D
-#   5,R,J
-#  40
-#   2,R,J
-
-   8,R,J
-   7,R
-   3,R,J
-   1,R
    1,R,J
-   9,R
-  10,Z
+   7,J
+   9
+   4,J
+   3,L
+#would save 4f if lined up
+#Set Player.Position -3562.5 -55.625
+   3,L
+   1
+   5,R,Z
    1,R,J
-   1,L,K,G
-   3,R
+   2
+   4,R
+   1,R,J
+   2,R
   15,R,D,X
-   5,R
   19,R,D
-   1,L,J
-   5,R,J
+   4,D
+   6,L,J
   40
 
 #lvl_heartside_ABuffZucchini
-   2,L,J
+   2,J
   15,U,X
    1,L
   40,R
    6,R,D
-   2,R
+   2
    6,R,X
   27,R,J,G
    7,U,G
@@ -632,6 +616,29 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
    8,R,J,G
    6,R,K,G
   13
+#more speed cba to sync
+#  77
+#   6,L,Z
+#   1,L,J
+#   2,L
+#   1,L,J
+#   5,L
+#  11,L,D,X
+#   1,R,J
+#   6,R
+#   1,R,J
+#  13,R,D,X
+#   1,R,J
+#   2,R,K,G
+#   3,R
+#  16,R,D,X
+#   4,R,J
+#  40
+#   3,R,J
+#   5,R
+#  16,R,D,X
+
+
   74
   14,L,Z
    1,L,J
@@ -1164,82 +1171,90 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
    1,R
   21,R,J
    1,K
-  22,L,K
-   2,K
-   4,R,J
-   7,R,K
+  21,L,K
+   3,K
+   1,J
+   2,R,J
+   1,J
+   8,R,K
+   9,R
+   1,R,J
+   4,R,Z
+   6,R,J
+   3,R,K,G
+   1,R,J,G
    5,R
-   4,R,K
-   3,R
-   5,R,Z
-   5,R,J
-   2,R,K,G
-   1,R
-   2,R,J,G
-   4,R
   48
 
 #lvl_heartside_Yoshachobi7
-  12,R
+   1
+  11,R
    1,R,J
-   6,R,K
-   5,R,J,G
-   7,R
-   2,R,J
-  11,R,K
-  19,R,D
-  15,L,J
-  12,R,K,G
-   1,R,J,G
-   1,L,J
-   1,K
-  13,R,J,G
-  11,F,9.68
-   1,F,24
-  14,R,Z
-   1,R,J
-  10,R,D,X
+   1,R,K
    5,R,J
-  15,R,D,X
-   9,R,C
-  15,U,Z
-   1,R
-   1
+   6,R,K,G
+   8,R
+   9,R,J
+  14,R
+   4
+  15,L,J
+  11,R,K,G
+   2,J,G
+   1,L,J
+   2,R,K,G
+   3,R,J,G
+   1,L,J
+   2,R,J
+   6,J
+   3,F,359.9376
+   6,U
+  12,R,Z
+   1,R,J
+   2,R
+   9,R,D,X
+   1,R,J
+  18,F,179
+  17,U,Z
   35,R,J
-   1
-   5,R
+   6,R
    2,J,G
    4,R,J
    1,R,K,G
    6,R,J,G
   11,R
   14,R,Z
-   4,R,J
-  15,D,X
-   5,D
-  14,R,D,X
    1,R,J
-  15,R,D,X
-  15,R,U,Z
-   4,F,23.7
-  15,R,X
+   2,R
+  15,D,X
+   7,R,D,C
+  12,R,D,X
+   1,R,J
+   2,R
+   9,R,D,X
+   3,J,F,29
+  10,R,D
+  15,R,U,X
   15,R,Z
-  15,R,X
-  10,R,D,C
-  24,R,J
-  12,U,Z
-  11,R,J
+   7,R,D,X
+   1,R,J
+   7,R,D
+  14,R,D,X
+  13,R,J
+   9,U,Z
+  13,R,J
   13,R,Z
   15,R,U,C
-  48,F,82.8
-  15,L,X
-  15,L,D,C
+   5,F,0.000001
+  43,F,89.2
+   6,R,Z
+   1,L,J
+   9,L,D
   15,D,X
-  15,R,D,C
-  12,R,D,X
+  17,D,C
+  15,R,D,X
+   4,R,D
   13,R,D,C
-   1,R,J
-   1,R
+   2,R,J
   14,R,D,X
    5,R,J
    2,J
@@ -1543,4 +1558,4 @@ EndRepeat
   14,R,U,X
  135
 
-ChapterTime: 3:54.872(13816)
+ChapterTime: 3:54.277(13781)
