@@ -1,4 +1,4 @@
-RecordCount: 3326
+RecordCount: 3335
 
 console load MidwayContest2022/1-Maps/Overgrown_Dungeon
    1
@@ -175,12 +175,12 @@ console load MidwayContest2022/1-Maps/Overgrown_Dungeon
   40
 
 #lvl_a-5
-  10
+   9
    3,R
   10,L,X
   11,L,J
   16,L
-  16
+  15
   10,R,X
   22,R,J
   25,U,X
@@ -389,4 +389,4 @@ console load MidwayContest2022/1-Maps/Overgrown_Dungeon
   12,L,U,X
  135
 
-ChapterTime: 0:57.970(3410)
+ChapterTime: 0:57.936(3408)
