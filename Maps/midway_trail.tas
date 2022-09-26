@@ -1,5 +1,5 @@
 #By TheRoboMan & Kataiser
-RecordCount: 9017
+RecordCount: 9128
 
 console load MidwayContest2022/1-Maps/ZZ-HeartSide
    1
@@ -615,54 +615,37 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
    9,R,U,X
    8,R,J,G
    6,R,K,G
-  13
-#more speed cba to sync
-#  77
-#   6,L,Z
-#   1,L,J
-#   2,L
-#   1,L,J
-#   5,L
-#  11,L,D,X
-#   1,R,J
-#   6,R
-#   1,R,J
-#  13,R,D,X
-#   1,R,J
-#   2,R,K,G
-#   3,R
-#  16,R,D,X
-#   4,R,J
-#  40
-#   3,R,J
-#   5,R
-#  16,R,D,X
-
-
-  74
-  14,L,Z
+  90
+   6,L,Z
    1,L,J
-  13,L,D,X
+   2,L
+   1,L,J
+   5,L
+  11,L,D,X
    1,R,J
-   7,R
+   6,R
    1,R,J
   13,R,D,X
    1,R,J
    2,R,K,G
    3,R
   15,R,D,X
-   1,R,D
-   5,R,J
+   1,R
+   4,R,J
   40
 
 #lvl_heartside_Fraz
-   7,R,J
+   3,R,J
+   5,R
   15,R,D,X
-   3,R,D
-   9,R,J
+   1,R
+   1,R,J
+   1,J
+   7,R,J
    3,R
   15,R,D,X
-   4,R,D
+   1,D
+   3,R,D
   21,R,G
    6,R
    5,J,G
@@ -727,7 +710,8 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
    1,R
   38,R,D,X
    4,L,G
-  18,D
+  16,D
+   2
   41,L,D,X
    4,R,G
   41,R,U,Z
@@ -738,7 +722,7 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
    1,R
    1
    1,R,G
-  16,J,G
+  15,J,G
    6,K,G
    2,L,K
    1,J
@@ -996,8 +980,8 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
   26,R
   15,U,Z
   19,R
-  11,U,X
-  62,R
+  10,U,X
+  63,R
   18,R,U,X
    2,R
   14,R,C
@@ -1558,4 +1542,4 @@ EndRepeat
   14,R,U,X
  135
 
-ChapterTime: 3:54.277(13781)
+ChapterTime: 3:54.226(13778)
