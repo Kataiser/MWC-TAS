@@ -1,4 +1,4 @@
-RecordCount: 1685
+RecordCount: 1698
 
 console load MidwayContest2022/1-Maps/bosssauce
    1
@@ -7,7 +7,7 @@ console load MidwayContest2022/1-Maps/bosssauce
  190
 
 #lvl_a-00
-   3,R,J
+   2,R,J
   14,R,Z
    4,R,J
    2,R
@@ -109,9 +109,9 @@ console load MidwayContest2022/1-Maps/bosssauce
    1
    6,R
    1,R,J
-   9,R,D,X
-   1,R,J
-  49,R
+   8,R,D,X
+   2,R,J
+  48,R
   14,R,Z
   28,R,J
   14,R,U,X
@@ -277,4 +277,4 @@ console load MidwayContest2022/1-Maps/bosssauce
   13,D
  139,D,C
 
-ChapterTime: 0:46.648(2744)
+ChapterTime: 0:46.614(2742)
