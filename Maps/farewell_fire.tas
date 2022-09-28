@@ -1,5 +1,5 @@
 #By Firethief1
-RecordCount: 2664
+RecordCount: 2719
 
 console load MidwayContest2022/1-Maps/xoli
    1
@@ -94,19 +94,16 @@ console load MidwayContest2022/1-Maps/xoli
 #lvl_ff-2
    8,R,D,X
    1,R,J
-  20,R,K
-  15,R
-   7
-  15,R,D,X
+  17,R,K
+  15,R,U,X
+  26,R,D
+   8,R,Z
+   6,R,J
+   6,R
    1,R,J
-   8,R
-  10
-   4,R,X
-   3,J
-   4,R
-  17
-  43,R,D
-   5,D
+  53,R
+   7,R,D
+   5,R
    4,R,J
    6,R
    1,R,J
@@ -438,4 +435,4 @@ console load MidwayContest2022/1-Maps/xoli
   14,R,U,X
  135
 
-ChapterTime: 0:55.131(3243)
+ChapterTime: 0:54.995(3235)
