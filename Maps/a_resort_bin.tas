@@ -1,7 +1,7 @@
 # MidwayContest2022
 # https://gamebanana.com/mods/387247
 
-RecordCount: 1162
+RecordCount: 1222
 
 console load MidwayContest2022/1-Maps/seenk
    1
@@ -28,14 +28,19 @@ console load MidwayContest2022/1-Maps/seenk
 #lvl_01
    1,R
    1,R,J
-   4,R
+   1,R
+   1
+   2,R
    1,R,J
    7,R,Z
    1,R,J
-   6,R
-   5,J
-   8,R,J
-  10,R
+   2
+   2,R
+   2
+   7,R,J
+   4,J
+   9
+   2,R
   10,L,D,X
   20,R,J
   15,R,X
@@ -331,4 +336,4 @@ console load MidwayContest2022/1-Maps/seenk
   14,R,D,C
  135
 
-ChapterTime: 0:44.948(2644)
+ChapterTime: 0:44.931(2643)
