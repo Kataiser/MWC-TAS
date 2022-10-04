@@ -4,32 +4,32 @@ console wipedebug
 console load MidwayContest2022/0-Lobbies/1-Maps
    1
 
-read Lobby/lobby_0-1 Start
-read LoadEnter Start
-read Maps/farewell_fire Start
-  33,X
-
-read Lobby/lobby_1-2 Start
-read LoadEnter Start
-read Maps/frozen_citadel Start
-  33,X
-
-read Lobby/lobby_2-5 Start
-read LoadEnter Start
-read Maps/cupids_garden Start
-  33,X
-
-read Lobby/lobby_5-4 Start
+read Lobby/lobby_0-4 Start
 read LoadEnter Start
 read Maps/the_midnight_library Start
   33,X
 
-read Lobby/lobby_4-3 Start
+read Lobby/lobby_4-5 Start
+read LoadEnter Start
+read Maps/cupids_garden Start
+  33,X
+
+read Lobby/lobby_5-3 Start
 read LoadEnter Start
 read Maps/pristine_streams Start
   33,X
 
-read Lobby/lobby_3-11 Start
+read Lobby/lobby_3-2 Start
+read LoadEnter Start
+read Maps/frozen_citadel Start
+  33,X
+
+read Lobby/lobby_2-1 Start
+read LoadEnter Start
+read Maps/farewell_fire Start
+  33,X
+
+read Lobby/lobby_1-11 Start
 read LoadEnter Start
 read Maps/silent_wandering Start
   33,X

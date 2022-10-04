@@ -16,11 +16,11 @@ console load MidwayContest2022/0-Lobbies/1-Maps main 19
   15,L,D,X
    4,L,D
    7,D
-   8,L,D
-   3,L
-   2,L,D
-   4,L,Z
-   1,L,J
+   4,L,D
    6,L
+   1,L,D
+   3,L
+  14,L,Z
+   1,R,J
    1,X
-#0:02.006(118)
+#0:02.091(123)
