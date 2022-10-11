@@ -1,5 +1,5 @@
 #By TheRoboMan & Kataiser
-RecordCount: 9790
+RecordCount: 9897
 
 console load MidwayContest2022/1-Maps/ZZ-HeartSide
    1
@@ -153,7 +153,6 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
   11,U,X
   20,R,J
   33,R,X
-
   14,R,D,C
    1,R,J
   10,R,D,X
@@ -174,9 +173,9 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
    1,R,J
    6,R
    7,R,J
-  14,R,U,X
+  14,R,U,Z
   15,U,C
-   8,R,U,X
+   7,R,X
   14,R,D,C
    1,R,J
   10,R,D,X
@@ -1144,8 +1143,13 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
    7,L
   15,U,X
   10,L
- 198
-  21,J
+ 143
+   1,R,J
+   8,R
+   9,L
+  20,L,G
+   6,U,G
+  21,L,J,G
   18,U,X
    3
   22,J
@@ -1219,6 +1223,8 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
    5,R,J
    6,R,K,G
    8,R
+
+
    9,R,J
   14,R
    4
@@ -1264,21 +1270,31 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
    1,R,J
    7,R,D
   14,R,D,X
-  13,R,J
-   9,U,Z
-  13,R,J
-  13,R,Z
-  15,R,U,C
-   5,F,0.000001
-  43,F,89.2
-   6,R,Z
-   1,L,J
-   9,L,D
+   6,R,J
+   5,R
+  12,R,J
+   1,K,G
+   1,J
+  20,L,K
+   2,K
+   5,J,G
+   7,J
+   2,K,G
+   1,J
+  14,R,K
+  15,R,U,X
+   1,R
+  14,R,Z
+   1,R,J
+   5,R
+   
   15,D,X
-  17,D,C
+  15,R,D,C
   15,R,D,X
-   4,R,D
-  13,R,D,C
+   8,R,D,C
+
+
+  13,R,D,X
    2,R,J
   14,R,D,X
    5,R,J
@@ -1583,4 +1599,4 @@ EndRepeat
   14,R,U,X
  135
 
-ChapterTime: 3:52.832(13696)
+ChapterTime: 3:52.509(13677)
