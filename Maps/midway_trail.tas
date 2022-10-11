@@ -1,5 +1,5 @@
 #By TheRoboMan & Kataiser
-RecordCount: 9381
+RecordCount: 9790
 
 console load MidwayContest2022/1-Maps/ZZ-HeartSide
    1
@@ -346,6 +346,7 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
   13,D
    7,L,D
   24,L
+
   14,L,Z
   22,L,J
   13,L
@@ -358,6 +359,19 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
    1,R,J
   14,R,D,X
    1,R,J
+###
+#  15,R,Z
+#   6,L
+#  14,L,Z
+#   1,R,J
+#   5,R
+#   2,R,J
+#  11,R,D,X
+#   1,R,K,G
+#  13,R
+#   1,R,D,J
+#  99,R
+###
   15,R,D,X
   15,D,C
   14,L,Z
@@ -465,18 +479,16 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
    5,L
    8,R
   15,U,Z
-  28,R,D
-   8,L,D
-   5,L
-   1
-  19,R
-  15,R,X
-  15,R,U,Z
-  15,R,X
-   6,R
+  23,R
+  21
+   5,L,X
+   1,K
+  15,R,K
+  16,R,U,Z
   19,R,X
+  19,R,C
    1,R,J,G
-  20,R,G
+  23,R,G
    1,R,D,G
   10,R,J,G
    9,R
@@ -506,19 +518,27 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
    1,R,J,G
    2,R,K,G
    8,R
-  42
-  14,R,Z
-   2,R,J
-   3,R
-   4,R,J
-  10,R,U,X
-   2,R,J,G
-   7,R
+  10
+  18,L
+   1,J
+   8
+   2,J
+   5,R
+   8,L,Z
+   1,R,J
+   5,R
+   1
+   2,R,D
+   8,R,D,J
+   8,R,X
+   3,R,K,G
+   4,R
   40
 
 #lvl_cp3
-   2,R
-  17,R,D,J
+   3,R
+   2,R,D,J
+  14,R,U,Z
   42,L,U,X
   15,U,C
    3,R
@@ -572,13 +592,22 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
    3
   18,U,X
   15,U,C
-  11,R
-  12,R,J
-   6,J
+  10,R
+  15,R,D,J
   15,U,X
-   5,L
+   3,R
+  16,R,U,X
+  18,R,U,C
+   8,R,X
+ 127,R,J
+  12,R,Z
+   3,L,J
+  15,L,D,X
+   3
+  10,D
    1
-   1,L
+   3,L
+   1
   15,L,Z
    5,L
   15,U,X
@@ -589,55 +618,44 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
    1,S
    1,D,J
   69,O
-   5,J
-   6,L,J
+   3,J
+   9,L,J
+   2,L
+  18,U,X
    3,L
+   9,L,J
+  10,R,X
+   9,J
   18,U,X
-   1,R
    1
-   1,R
-   9,R,J
-   8,R
-   2,R,J
-  18,R,U,Z
   18,U,X
-  15,R,U,C
-   5,R
-  13,R,U,X
-   8,R,J,G
-  15,R
-  24
-  14,R,Z
-   2,L,J
-  14,L,D,X
-   8,L,J
-   6,U,X
-   1,R,J
-   4,J
-   6,R,J
-  18,R,D
-   1,R,J,G
-  30,R,K,G
-   1,R,J,G
-  15,R,K,G
-  20,J
-  19
-  14,R,Z
-   1,L,J
-   3
-   4,L
-   1,L,J
-   1,J
-  15,L,D,X
-   1,J
-   4,L,J
+   1,R
+  18,R,U,X
   14,R,Z
    1,R,J
-   3,R
    9,R,U,X
-   8,R,J,G
-   6,R,K,G
-  90
+   1,R,K,G
+  91,R
+#Faster but idk how to resync
+#  10,R,D,X
+#   1,L,J
+#   4,L
+#  14,L,D,X
+#   1,R,J
+#   6,R,D,X
+#   1,R,K,G
+#  11,R
+#   1
+#   1,R,J
+#   6,R,D,X
+#   1,R,J
+#   7,R
+#   3,R,J
+#  12,R,D,X
+#  40
+#
+   4,R
+   2
    6,L,Z
    1,L,J
    2,L
@@ -1565,4 +1583,4 @@ EndRepeat
   14,R,U,X
  135
 
-ChapterTime: 3:54.056(13768)
+ChapterTime: 3:52.832(13696)
