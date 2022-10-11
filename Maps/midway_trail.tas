@@ -1,5 +1,5 @@
 #By TheRoboMan & Kataiser
-RecordCount: 9897
+RecordCount: 9956
 
 console load MidwayContest2022/1-Maps/ZZ-HeartSide
    1
@@ -180,7 +180,6 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
    1,R,J
   10,R,D,X
    5,R,J
-
   35,R,J,G
    3,J,G
    1
@@ -258,7 +257,6 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
   21,R,U,X
   15,R,U,C
    1,R
-
    1,R,J,G
    1,R,K,G
    7
@@ -345,7 +343,6 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
   13,D
    7,L,D
   24,L
-
   14,L,Z
   22,L,J
   13,L
@@ -358,19 +355,6 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
    1,R,J
   14,R,D,X
    1,R,J
-###
-#  15,R,Z
-#   6,L
-#  14,L,Z
-#   1,R,J
-#   5,R
-#   2,R,J
-#  11,R,D,X
-#   1,R,K,G
-#  13,R
-#   1,R,D,J
-#  99,R
-###
   15,R,D,X
   15,D,C
   14,L,Z
@@ -635,61 +619,40 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
    9,R,U,X
    1,R,K,G
   91,R
-#Faster but idk how to resync
-#  10,R,D,X
-#   1,L,J
-#   4,L
-#  14,L,D,X
-#   1,R,J
-#   6,R,D,X
-#   1,R,K,G
-#  11,R
-#   1
-#   1,R,J
-#   6,R,D,X
-#   1,R,J
-#   7,R
-#   3,R,J
-#  12,R,D,X
-#  40
-#
-   4,R
-   2
-   6,L,Z
+  10,R,D,X
    1,L,J
-   2,L
-   1,L,J
-   5,L
-  11,L,D,X
+   4,L
+  14,L,D,X
    1,R,J
-   6,R
+   6,R,D,X
+   1,R,K,G
+  11,R
+   1
    1,R,J
-  13,R,D,X
+   6,R,D,X
    1,R,J
-   2,R,K,G
-   3,R
-  15,R,D,X
-   1,R
-   4,R,J
+   7,R
+   3,R,J
+  12,R,D,X
   40
 
 #lvl_heartside_Fraz
-   3,R,J
+   3,R,D,X
+   2,R
+   7,R,D,J
    5,R
+   6,R,J
   15,R,D,X
+   4,R,D
+   2,R
+   1,R,D
    1,R
-   1,R,J
-   1,J
-   7,R,J
-   3,R
-  15,R,D,X
-   1,D
-   3,R,D
-  21,R,G
-   6,R
-   5,J,G
-   7,R,J
-   1,R
+  17,R,G
+   4,G
+   7
+   6,R,J,G
+   6,J
+   1
    2,R,K,G
   23,D
    9,L,D
@@ -1599,4 +1562,4 @@ EndRepeat
   14,R,U,X
  135
 
-ChapterTime: 3:52.509(13677)
+ChapterTime: 3:52.373(13669)
