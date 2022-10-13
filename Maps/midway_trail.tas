@@ -1,5 +1,5 @@
 #By TheRoboMan & Kataiser
-RecordCount: 10013
+RecordCount: 10015
 
 console load MidwayContest2022/1-Maps/ZZ-HeartSide
    1
@@ -796,13 +796,12 @@ console load MidwayContest2022/1-Maps/ZZ-HeartSide
    1,R,J
   14,R,D,X
    1,R,J
-  13,R,D,X
+  12,R,D,X
    1,R,J
    5,R
    2,R,K
-   4,R,J
-   5,J
-   1
+   9,R,J
+   1,R
   14,U,X
    8,L,J
    6,R,J
@@ -1553,4 +1552,4 @@ EndRepeat
   14,R,U,X
  135
 
-ChapterTime: 3:51.948(13644)
+ChapterTime: 3:51.931(13643)
