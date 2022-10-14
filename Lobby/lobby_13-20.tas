@@ -1,4 +1,5 @@
 console load MidwayContest2022/0-Lobbies/1-Maps main 20
+console hearts 18
    1
 
 #Start
@@ -70,18 +71,17 @@ EndRepeat
    3,R,D,J
    7,R,K,G
   15,U,X
-   1
-  28,R,J
-   2,R
-   1,R,J
-   1,R
+   5,R,J
    1,R,K,G
    7,R
-   4,X
+   1,R,J
+   3,R
+  24,R,U,X
+   4,C
    7,R,J
    5,R
-   2,R,J
-   6,R
+   3,R,J
+   5,R
   10,L,D,X
    1,R,J
    1,R,K
@@ -98,4 +98,5 @@ EndRepeat
    3,R,J
   12,R
    1,X
-#0:11.475(675)
+
+#0:11.424(672)
