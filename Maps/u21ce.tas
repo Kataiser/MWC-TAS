@@ -1,4 +1,4 @@
-RecordCount: 2017
+RecordCount: 2354
 
 console load MidwayContest2022/1-Maps/u+21ce
    1
@@ -39,17 +39,22 @@ console load MidwayContest2022/1-Maps/u+21ce
   16,D,X
    1,J
   14
-  21,J
-  18,D,X
+   8,J
+   7
+   1,J
+   1
+   2,J
+  13,D
+   4,X
 
 #lvl_1
-  14,C
+  10,X
    1,J
    4,Z
    1,D,J
-   1,J
-   8
-  10,J
+   7
+   9,J
+   1
   15,U,X
   10
    1,G
@@ -90,8 +95,7 @@ console load MidwayContest2022/1-Maps/u+21ce
    1,K
   11,J
    7
-   1,K
-   1,J
+   2,K
   15
    4,J
    8
@@ -120,12 +124,13 @@ console load MidwayContest2022/1-Maps/u+21ce
    1,J
    4,Z
    1,D,J
-  19,J
-   2
-  16,X
+   6,J
+  10
+  18,X
+   7,C
 
 #lvl_2 (1)
-  10,C
+   2,C
    1,J
    4,K
    6
@@ -169,17 +174,15 @@ console load MidwayContest2022/1-Maps/u+21ce
    2,J
   15
    1,J
-   5,K
-  12,J
-  15,U,X
+   4,K
+  14,U,X
+   9,J
   15,U,C
-  14,X
+  14,L,X
    1,C
   81
 
 #lvl_2 (2)
-   1,G
-   1
    1,J
   41,D
    1,J
@@ -235,19 +238,20 @@ console load MidwayContest2022/1-Maps/u+21ce
   15,C
   15,X
   15,C
-  19
+  18,D
   15,X
   15,C
-  15,X
-  15,C
-   2
+  16,X
+  16,C
    1,X
-  78
+  77
+   4,X
 
 #lvl_tutorial
+   1,X
    1,J
    1,K
-  15
+  14
    4,Z
    1,D,J
   11,J
@@ -259,12 +263,12 @@ console load MidwayContest2022/1-Maps/u+21ce
    4,Z
    1,D,J
   19,J
-   4
+   3
 
 #lvl_3
    7,X
    1,J
-  15
+  14
    4,Z
    1,D,J
   10,J
@@ -280,7 +284,7 @@ console load MidwayContest2022/1-Maps/u+21ce
    1,K
    2
    1,J
-  17
+  16
    1,J
    5
    2,J
@@ -288,7 +292,8 @@ console load MidwayContest2022/1-Maps/u+21ce
   17,J
    8,U,X
    1,J
-  11
+   1,K
+   7
    1,G
    1
    1,J
@@ -296,9 +301,9 @@ console load MidwayContest2022/1-Maps/u+21ce
    1,G
    1
    8,J
-   5,K
+   6,K
    5,J
-   3,G
+   4
    4,K
   12,D
   10,Z
@@ -420,8 +425,8 @@ console load MidwayContest2022/1-Maps/u+21ce
    1,J
    3
   15,X
-  20
-  12,U,Z
+  21
+  11,U,Z
    7,J
   11
    1,G
@@ -494,17 +499,18 @@ console load MidwayContest2022/1-Maps/u+21ce
    1,D,J
   16,J
   12
-   9,J
-   9
-   1,J
-   9
-  15,X
+  10,J
+   8
+   3,J
+  11,D
+  13,L,X
+   4,J
+   2
    4,Z
-   1,D,J
-   7,J
-   5
-  15,X
-  15,C
+   8,D,K
+   6
+   4,Z
+  12,D,J
    1,X
  409
 
@@ -515,4 +521,4 @@ Repeat, 5
 EndRepeat
  134
 
-ChapterTime: 1:16.177(4481)
+ChapterTime: 1:15.769(4457)
